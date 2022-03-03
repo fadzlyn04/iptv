@@ -1,0 +1,15 @@
+# iptv
+# 4800k 1080p
+ffmpeg -y -i "input.mkv" -c:v libx264 -x264opts 'keyint=24:min-keyint=24:no-scenecut' \
+  -vf -1:1080 -b:v 4800k -maxrate 4800k \
+  -movflags faststart -bufsize 9600k -write_tmcd 0 "intermed_4800k.mp4"
+# 2400k 720p
+ffmpeg -y -i "input.mkv" -c:v libx264 -x264opts 'keyint=24:min-keyint=24:no-scenecut' \
+  -vf -1:720 -b:v 2400k -maxrate 2400k \
+  -movflags faststart -bufsize 9600k -write_tmcd 0 "intermed_2400k.mp4"
+...
+# 128k AAC audio only
+ffmpeg -y -i "input.mkv" -vn -c:a libfdk_aac -b:a 128k "audio_128k.m4a"
+
+MP4Box -dash 2000 -rap -frag-rap -url-template -dash-profile onDemand -segment-name 'segment_$RepresentationID$' \
+  -out playlist.mpd "intermed_4800k.mp4" "intermed_2400k.mp4" ... "audio_128k.m4a"
