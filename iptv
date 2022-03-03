@@ -24,11 +24,11 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",ASTRO RIA
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/1004/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",ASTRO WARNA
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/2402/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/2402/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA",ASTRO CITRA
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/2700/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/2700/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="MALAYSIA",ASTRO OASIS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MALAYSIA",ASTRO PRIMA
@@ -40,7 +40,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vaanavil_v2.png" group-title="MALAYSIA",ASTRO VAANAVIL
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Vinmeen_HD_v1.png" group-title="MALAYSIA",ASTRO VINMEEN
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/2105/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/2105/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="MALAYSIA",ASTRO BOLLYONE
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_BoxOffice_Movies_v1.png" group-title="MALAYSIA",ASTRO THANGATHIRAI
@@ -64,9 +64,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png" group-title="MALAYSIA",ZEE TAMIL
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" group-title="MALAYSIA",ASTRO AEC
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/2400/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/2400/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Hua_Hee_Dai_v1.png" group-title="MALAYSIA",ASTRO HUA HEE DAI
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/2308/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/2308/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Quan_Jia_HD_v1.png" group-title="MALAYSIA",ASTRO QUAN JIA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Shuang_Xing_v1.png" group-title="MALAYSIA",ASTRO SHUANG XING
@@ -326,13 +326,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="SPORT",ASTRO ARENA 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORT",ASTRO SUPERSPORT
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/601/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/601/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORT",ASTRO SUPERSPORT 2
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/2104/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/2104/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORT",ASTRO SUPERSPORT 3
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/2701/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/2701/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORT",ASTRO SUPERSPORT 4
-http://linears-playback.astro.com.my/vsg/21MMp-zxNxecv3QwGo58mXC9TYZXTdY7SRPRMktV73apI=htRN/dash-wv/jitp-linearwm/2506/default_ott.mpd
+http://linears-playback.astro.com.my/vsg/21ReRLEKyVMCacCemuJ65MX63napJhGaVAJr9lguabAIQ=d-e9/dash-wv/jitp-linearwm/2506/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORT",ASTRO SUPERSPORT 5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="SPORT",BEIN SPORTS
