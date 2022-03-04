@@ -32,7 +32,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF: -1 tvg-id="tv2.my" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="LIVE | MEDIA PRIMA", TV 2
 http://iptv.tvmalaysia.cc:80/109789/109789/7178
 #EXTINF: -1 tvg-id="tv2.id" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="LIVE | MEDIA PRIMA", tv 2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd 
 #EXTINF: -1 tvg-id="tv3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/800px-TV3_%28Malaysia%29.svg.png" group-title="LIVE | MEDIA PRIMA", TV 3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF: -1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/87a07a960f50ae26eaa74f96bfe1628d.png" group-title="LIVE | MEDIA PRIMA", TV 3 HD
