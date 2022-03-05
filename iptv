@@ -183,9 +183,15 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1g-id="TVNMoviesIndonesia.kr"g-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="LIVE | MOVIE (subtitle)",TVN MOVIES
+#EXTINF:-1g-id="TVNMoviesIndonesia.kr"g-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="LIVE | MOVIE (subtitle)",TVN MOVIES
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF: -1 tvg-id="tv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="LIVE | MOVIE (subtitle)", tVN movies HD
+http://iptv12k.com:35461/8022011502/123456/715
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b73add6f0c8f2f01ad2029f8b19fa310&key=799dabe972f9c41a25ba37daa73a5fe5
+#EXTINF: -1 tvg-id="tvnmovies.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="LIVE | MOVIE (subtitle)", TVN  MOVIE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -248,10 +254,8 @@ http://iptv12k.com:35461/8022011502/123456/1826
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054//default_ott.mpd
 #EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/ea6cd61a60135de63c734fd6803db813.jpg" group-title="LIVE | MOVIE (subtitle)", Star Movies HD
 http://iptv.tvmalaysia.cc:80/109789/109789/8997
-#EXTINF: -1 tvg-id="tv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="LIVE | MOVIE (subtitle)", tVN movies HD
-http://iptv12k.com:35461/8022011502/123456/715
-#EXTINF: -1 tvg-id="tvnmovies.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="LIVE | MOVIE (subtitle)", TVN  MOVIE
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+
 #EXTINF: -1 tvg-id="warnertv.id" tvg-logo="http://tvmalaysia.cc:80/images/8195cade8b105a8fd74f7dd2821d749b.png" group-title="LIVE | MOVIE (subtitle)", Warner TV HD
 http://iptv.tvmalaysia.cc:80/109789/109789/7072
 #EXTINF: -1 tvg-id="MY: ABC AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Australia.png" group-title="LIVE | DOCUMENTARY (subtitle)", ABC Australia
