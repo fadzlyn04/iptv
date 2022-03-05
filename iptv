@@ -7,5 +7,943 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #EXTINF:-1 group-title="INDIAN"g-id="AstroVaanavil"g-chno="AstroVaanavil"g-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",201 Astro Vaanavil  
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
 
+#EXTM3U 
+#EXTINF: -1 tvg-id="Citra.my" tvg-name="ASTRO Citra HD" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="LIVE | ASTRO", ASTRO Citra HD
+http://iptv12k.com:35461/8022011502/123456/721
+#EXTINF: -1 tvg-id="astrocitra.my" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="LIVE | ASTRO", Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/109789/109789/7267
+#EXTINF: -1 tvg-id="Oasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" group-title="LIVE | ASTRO", ASTRO Oasis HD
+http://iptv12k.com:35461/8022011502/123456/732
+#EXTINF: -1 tvg-id="astrooasis.my" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" group-title="LIVE | ASTRO", ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6725
+#EXTINF: -1 tvg-id="Prima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="LIVE | ASTRO", ASTRO Prima HD
+http://iptv12k.com:35461/8022011502/123456/734
+#EXTINF: -1 tvg-id="astroprima.my" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="LIVE | ASTRO", ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6727
+#EXTINF: -1 tvg-id="Ria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="LIVE | ASTRO", ASTRO Ria HD
+http://iptv12k.com:35461/8022011502/123456/735
+#EXTINF: -1 tvg-id="astroria.my" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="LIVE | ASTRO", ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6730
+#EXTINF: -1 tvg-id="astrowarna.my" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="LIVE | ASTRO", ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6740
+#EXTINF: -1 tvg-id="Warna.my" tvg-name="ASTRO Warna HD" tvg-logo="https://i.loli.net/2021/10/05/7QbR3qYUgmlxzwn.jpg" group-title="LIVE | ASTRO", ASTRO Warna HD
+http://iptv12k.com:35461/8022011502/123456/733
+#EXTINF: -1 tvg-id="Warna.my" tvg-name="WARNA BACKUP 1" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="LIVE | ASTRO", ASTRO WARNA BACKUP
+http://iptv12k.com:35461/8022011502/123456/5075
+#EXTINF: -1 tvg-name="BOO" tvg-logo="http://tvmalaysia.cc:80/images/7b9fdf9cec940d2163e49a0773bf32dc.png" group-title="LIVE | ASTRO", BOO
+http://iptv12k.com:35461/8022011502/123456/722
+#EXTINF: -1 tvg-id="boo.my" tvg-logo="http://tvmalaysia.cc:80/images/7b9fdf9cec940d2163e49a0773bf32dc.png" group-title="LIVE | ASTRO", Boo
+http://iptv.tvmalaysia.cc:80/109789/109789/8872
+#EXTINF: -1 tvg-id="tv1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/TV1_RTMS.png" group-title="LIVE | MEDIA PRIMA", TV 1
+http://iptv.tvmalaysia.cc:80/109789/109789/7177
+#EXTINF: -1 tvg-id="tv1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/TV1_RTMS.png" group-title="LIVE | MEDIA PRIMA", tv 1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF: -1 tvg-id="tv2.my" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="LIVE | MEDIA PRIMA", TV 2
+http://iptv.tvmalaysia.cc:80/109789/109789/7178
+#EXTINF: -1 tvg-id="tv2.id" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="LIVE | MEDIA PRIMA", tv 2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd 
+#EXTINF: -1 tvg-id="tv3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/800px-TV3_%28Malaysia%29.svg.png" group-title="LIVE | MEDIA PRIMA", TV 3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF: -1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/87a07a960f50ae26eaa74f96bfe1628d.png" group-title="LIVE | MEDIA PRIMA", TV 3 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/8750
+#EXTINF: -1 tvg-id="tv3.my" tvg-logo="http://tvmalaysia.cc:80/images/2d597f2f1c13083021c04f1937a09f40.png" group-title="LIVE | MEDIA PRIMA", TV 3
+http://iptv.tvmalaysia.cc:80/109789/109789/7266
+#EXTINF: -1 tvg-id="TV3.my" tvg-name="TV3 BACKUP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/800px-TV3_%28Malaysia%29.svg.png" group-title="LIVE | MEDIA PRIMA", TV3 BACKUP 1
+http://iptv12k.com:35461/8022011502/123456/5073
+#EXTINF: -1 tvg-id="tv6.id" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-Logo-PNG.png" group-title="LIVE | MEDIA PRIMA", TV 6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF: -1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="LIVE | MEDIA PRIMA", NTV7
+http://iptv12k.com:35461/8022011502/123456/739
+#EXTINF: -1 tvg-id="TV8.my" tvg-name="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="LIVE | MEDIA PRIMA", 8TV
+http://iptv12k.com:35461/8022011502/123456/738
+#EXTINF: -1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="http://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="LIVE | MEDIA PRIMA", TV9
+http://iptv12k.com:35461/8022011502/123456/737
+#EXTINF: -1 tvg-id="tv9.my" tvg-logo="http://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="LIVE | MEDIA PRIMA", TV 9
+http://iptv.tvmalaysia.cc:80/109789/109789/7185
+#EXTINF: -1 tvg-id="tvalhijrah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="LIVE | MEDIA PRIMA", TV ALHIJRAH
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+#EXTINF: -1 tvg-id="AlHijrah.my" tvg-name="TV-AlHijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="LIVE | MEDIA PRIMA", TV-AlHijrah
+http://iptv12k.com:35461/8022011502/123456/726
+#EXTINF: -1 tvg-id="animalplanet.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="LIVE | MEDIA PRIMA", TV IKIM
+http://iptv.tvmalaysia.cc:80/109789/109789/7192
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="LIVE | MEDIA PRIMA", RTM Sports
+http://iptv.tvmalaysia.cc:80/109789/109789/7186
+#EXTINF: -1 tvg-id="ID: !NSERT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/RTB_Perdana.png" group-title="LIVE | MEDIA PRIMA", RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/109789/109789/7188
+#EXTINF: -1 tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="LIVE | MEDIA PRIMA", DRAMA SANGAT
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF: -1 tvg-id="bernamatv.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png" group-title="LIVE | MEDIA PRIMA", BERNAMA
+http://iptv.tvmalaysia.cc:80/109789/109789/7190
+#EXTINF: -1 tvg-id="beritartm.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png" group-title="LIVE | MEDIA PRIMA", Berita RTM
+http://iptv.tvmalaysia.cc:80/109789/109789/7191
+#EXTINF: -1 tvg-id="awesometv.my" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="LIVE | MEDIA PRIMA", Awesome TV
+http://iptv.tvmalaysia.cc:80/109789/109789/9016
+#EXTINF: -1 tvg-id="Berita.id" tvg-name="Berita" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW.jpg" group-title="LIVE | MEDIA PRIMA", Berita
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF: -1 tvg-id="axn.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="LIVE | MOVIE (subtitle)", AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF: -1 tvg-id="axnhd.id" tvg-logo="http://tvmalaysia.cc:80/images/64c7ada3247a508ceff64537eb31a5c4.png" group-title="LIVE | MOVIE (subtitle)", AXN
+http://iptv.tvmalaysia.cc:80/109789/109789/7223
+#EXTINF: -1 tvg-id="ccm.id" tvg-logo="http://tvmalaysia.cc:80/images/6ed0057ffb7e6ee1f54c71b54a3fc8d1.png" group-title="LIVE | MOVIE (subtitle)", Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/109789/109789/7222
+#EXTINF: -1 tvg-id="celestialmovies.id" tvg-logo="http://tvmalaysia.cc:80/images/6c3c862edbc0724bcd330e81fdb92237.png" group-title="LIVE | MOVIE (subtitle)", Celestial Movies
+http://iptv.tvmalaysia.cc:80/109789/109789/7235
+#EXTINF: -1 tvg-id="ID: CINEMA WORLD HD" tvg-logo="http://tvmalaysia.cc:80/images/3334f26adcff7a4fa6270dad0e092123.png" group-title="LIVE | MOVIE (subtitle)", Cinema World
+http://iptv.tvmalaysia.cc:80/109789/109789/7219
+#EXTINF: -1 tvg-id="cinemax.id" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="LIVE | MOVIE (subtitle)", Cinemax AOTG
+https://live.astradamy.com/hbogo/cinemax/index.m3u8
+#EXTINF: -1 tvg-id="cinemax.id" tvg-logo="http://tvmalaysia.cc:80/images/95fbdf7f24f8c7ec61c468a2034e5623.png" group-title="LIVE | MOVIE (subtitle)", Cinemax FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7062
+#EXTINF: -1 tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="LIVE | MOVIE (subtitle)", Comedy Central
+http://iptv12k.com:35461/8022011502/123456/683
+#EXTINF: -1 tvg-id="foxhd.id" tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" group-title="LIVE | MOVIE (subtitle)", FOX
+http://iptv.tvmalaysia.cc:80/109789/109789/7227
+#EXTINF: -1 tvg-name="FOX Action Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Fox_Action_Movies_logo.svg" group-title="LIVE | MOVIE (subtitle)", FOX Action Movies
+http://iptv12k.com:35461/8022011502/123456/612
+#EXTINF: -1 tvg-id="foxcrime.id" tvg-logo="http://tvmalaysia.cc:80/images/b735a95be9e3259a1af53ebae3a3b7a9.png" group-title="LIVE | MOVIE (subtitle)", Fox Crime
+http://iptv.tvmalaysia.cc:80/109789/109789/7225
+#EXTINF: -1 tvg-id="foxfamilymovies.id" tvg-logo="http://tvmalaysia.cc:80/images/cbf50fdf2186c7a0a8cef8fd2ae9f2d3.png" group-title="LIVE | MOVIE (subtitle)", Fox Family Movie
+http://iptv.tvmalaysia.cc:80/109789/109789/9027
+#EXTINF: -1 tvg-id="galaxy.id" tvg-logo="http://tvmalaysia.cc:80/images/342a0f0cacfbb2cdb3a0aa994784d887.png" group-title="LIVE | MOVIE (subtitle)", Galaxy
+http://iptv.tvmalaysia.cc:80/109789/109789/8839
+#EXTINF: -1 tvg-id="galaxypremium.id" tvg-logo="http://tvmalaysia.cc:80/images/bc5b56c663e4476badfe70faae1ee75f.png" group-title="LIVE | MOVIE (subtitle)", Galaxy Premium
+http://iptv.tvmalaysia.cc:80/109789/109789/8838
+#EXTINF: -1 tvg-id="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="LIVE | MOVIE (subtitle)", HBO AOTG
+https://live.astradamy.com/hbogo/hbo/index.m3u8
+#EXTINF: -1 tvg-id="hbohd.id" tvg-logo="http://tvmalaysia.cc:80/images/597d58c4634acfa46ffd7ec56cebc923.png" group-title="LIVE | MOVIE (subtitle)", HBO FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7067
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="HBOAsia.us"g-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="LIVE | MOVIE (subtitle)",HBO
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF: -1 tvg-id="hbofamilyhd.id" tvg-logo="http://tvmalaysia.cc:80/images/36e39cc071447ddbf7abf40add2dd3b8.png" group-title="LIVE | MOVIE (subtitle)", HBO Family FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7070
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="HBOFamilyAsia.us"g-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="LIVE | MOVIE (subtitle)",HBO FAMILY
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="HBOHits.us"g-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="LIVE | MOVIE (subtitle)",HBO HITS
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="HBOSignatureAsia.us"g-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="LIVE | MOVIE (subtitle)",HBO SIGNATURE
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="CinemaxAsia.us"g-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="LIVE | MOVIE (subtitle)",CINEMAX
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#EXTINF:-1g-id="404"g-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE | MOVIE (subtitle)",BOO
+http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/1697.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="CelestialClassicMovies.hk"g-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="LIVE | MOVIE (subtitle)",CCM
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="CelestialMoviesIndonesia.hk"g-logo="https://www.transvision.co.id/img/channel/celestial_movies.png" group-title="LIVE | MOVIE (subtitle)",CELESTIAL MOVIES
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id=""g-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="LIVE | MOVIE (subtitle)",CINEMAWORLD
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="Galaxy.id"g-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="LIVE | MOVIE (subtitle)",GALAXY
+https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="GalaxyPremium.id"g-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="LIVE | MOVIE (subtitle)",GALAXY PREMIUM
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="HitsMovies.sg"g-logo="https://static.epg.best/my/HitsMovies.my.png" group-title="LIVE | MOVIE (subtitle)",HITS MOVIES
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="IMC.id"g-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="LIVE | MOVIE (subtitle)",IMC
+https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+#EXTINF:-1g-id="413"g-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="LIVE | MOVIE (subtitle)",SHOWCASE MOVIES
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="Thrill.hk"g-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="LIVE | MOVIE (subtitle)",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="TVNMoviesIndonesia.kr"g-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="LIVE | MOVIE (subtitle)",TVN MOVIES
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="AXNEastAsia.us"g-logo="https://static.epg.best/id/AXN.id.png" group-title="LIVE | MOVIE (subtitle)",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="FMN.id"g-logo="http://dusktill.masuk.web.id/img/fmn.png" group-title="VARIETY",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="Hits.sg"g-logo="https://static.epg.best/id/HITS.id.png" group-title="VARIETY",HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="Kix.hk"g-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="VARIETY",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1g-id="LifetimeAsia.us"g-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="VARIETY",LIFETIME
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
+#EXTINF:-1g-id="713"g-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="VARIETY",PARAMOUNT NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
+#EXTINF:-1g-id="704"g-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="VARIETY",PRIMETIME
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
+
+
+#EXTINF: -1 tvg-id="hbofamily.id" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122" group-title="LIVE | MOVIE (subtitle)", Hob Family AOTG
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+#EXTINF: -1 tvg-id="hbohits.id" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="LIVE | MOVIE (subtitle)", Hob Hits AOTG
+https://live.astradamy.com/hbogo/hbohits/index.m3u8
+#EXTINF: -1 tvg-id="hbohitshd.id" tvg-logo="http://tvmalaysia.cc:80/images/f5a402f969d6cbf259b9523e35427024.png" group-title="LIVE | MOVIE (subtitle)", HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7068
+#EXTINF: -1 tvg-id="hbosig.id" tvg-logo="http://tvmalaysia.cc:80/images/8877fb6ba2801969210b41d20f8439ef.png" group-title="LIVE | MOVIE (subtitle)", Hbo Signature HBOGO
+https://live.astradamy.com/hbogo/hbosig/index.m3u8
+#EXTINF: -1 tvg-id="hbosignaturehd.id" tvg-logo="http://tvmalaysia.cc:80/images/8877fb6ba2801969210b41d20f8439ef.png" group-title="LIVE | MOVIE (subtitle)", HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7069
+#EXTINF: -1 tvg-id="hitsmovies.id" tvg-logo="http://tvmalaysia.cc:80/images/c55c0ef62eadb4283880cb9b90eb16e0.png" group-title="LIVE | MOVIE (subtitle)", Hits Movies
+http://iptv.tvmalaysia.cc:80/109789/109789/7066
+#EXTINF: -1 tvg-id="kix.id" tvg-logo="http://tvmalaysia.cc:80/images/2137a2ac79600bd512bbe7f6c9010dd4.png" group-title="LIVE | MOVIE (subtitle)", KiX
+http://iptv.tvmalaysia.cc:80/109789/109789/7229
+#EXTINF: -1 tvg-name="Kix HD" tvg-logo="https://i.loli.net/2021/10/07/hzQv1sRZuOqAcwy.png" group-title="LIVE | MOVIE (subtitle)", Kix HD
+http://iptv12k.com:35461/8022011502/123456/689
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/2ff46df0979b4464c685782588b1d986.jpg" group-title="LIVE | MOVIE (subtitle)", Movies Now
+http://iptv.tvmalaysia.cc:80/109789/109789/8999
+#EXTINF: -1 tvg-name="My-Showcase Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ShowcaseMovies.png" group-title="LIVE | MOVIE (subtitle)", Showcase Movies
+http://iptv12k.com:35461/8022011502/123456/1826
+#EXTINF: -1 tvg-id="Showcase.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="LIVE | MOVIE (subtitle)", Showcase Movies AOTG
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054//default_ott.mpd
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/ea6cd61a60135de63c734fd6803db813.jpg" group-title="LIVE | MOVIE (subtitle)", Star Movies HD
+http://iptv.tvmalaysia.cc:80/109789/109789/8997
+#EXTINF: -1 tvg-id="tv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="LIVE | MOVIE (subtitle)", tVN movies HD
+http://iptv12k.com:35461/8022011502/123456/715
+#EXTINF: -1 tvg-id="tvnmovies.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="LIVE | MOVIE (subtitle)", TVN  MOVIE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+#EXTINF: -1 tvg-id="warnertv.id" tvg-logo="http://tvmalaysia.cc:80/images/8195cade8b105a8fd74f7dd2821d749b.png" group-title="LIVE | MOVIE (subtitle)", Warner TV HD
+http://iptv.tvmalaysia.cc:80/109789/109789/7072
+#EXTINF: -1 tvg-id="MY: ABC AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Australia.png" group-title="LIVE | DOCUMENTARY (subtitle)", ABC Australia
+http://iptv.tvmalaysia.cc:80/109789/109789/6692
+#EXTINF: -1 tvg-name="AFC" tvg-logo="https://i.loli.net/2021/10/07/DTesti2RHMUGCr1.png" group-title="LIVE | DOCUMENTARY (subtitle)", AFC
+http://iptv12k.com:35461/8022011502/123456/640
+#EXTINF: -1 tvg-id="animalplanet.id" tvg-logo="http://tvmalaysia.cc:80/images/04e03f1a47aee7d8f176cab55b81a9c9.png" group-title="LIVE | DOCUMENTARY (subtitle)", Animal Planet
+http://iptv.tvmalaysia.cc:80/109789/109789/7077
+#EXTINF: -1 tvg-name="C&amp;I HD rime Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="LIVE | DOCUMENTARY (subtitle)", C&amp;I HD rime Investigation
+http://iptv12k.com:35461/8022011502/123456/634
+#EXTINF: -1 tvg-id="animalplanet.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="LIVE | DOCUMENTARY (subtitle)", Animal Planet HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6695
+#EXTINF: -1 tvg-id="FoodNetwork.my" tvg-name="Asia Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="LIVE | DOCUMENTARY (subtitle)", Asia Food Network
+http://iptv12k.com:35461/8022011502/123456/638
+#EXTINF: -1 tvg-id="asianfoodchannel.id" tvg-logo="http://tvmalaysia.cc:80/images/ae54174abe4eff7596f622fd752bc10d.png" group-title="LIVE | DOCUMENTARY (subtitle)", Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6693
+#EXTINF: -1 tvg-id="bbcearth.id" tvg-logo="http://tvmalaysia.cc:80/images/acbbf3987a968fe6810de12ea52174d6.png" group-title="LIVE | DOCUMENTARY (subtitle)", BBC Earth
+http://iptv.tvmalaysia.cc:80/109789/109789/7233
+#EXTINF: -1 tvg-name="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="LIVE | DOCUMENTARY (subtitle)", BBC Earth HD
+http://iptv12k.com:35461/8022011502/123456/624
+#EXTINF: -1 tvg-id="crimeinvestigation.id" tvg-logo="http://tvmalaysia.cc:80/images/31a115a591124d7ac404bca61741b1ce.png" group-title="LIVE | DOCUMENTARY (subtitle)", Crime & Investigation.
+http://iptv.tvmalaysia.cc:80/109789/109789/9009
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="LIVE | DOCUMENTARY (subtitle)", CTI Asia
+http://iptv.tvmalaysia.cc:80/109789/109789/6771
+#EXTINF: -1 tvg-id="discoveryasia.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="LIVE | DOCUMENTARY (subtitle)", Discovery Asia
+http://iptv.tvmalaysia.cc:80/109789/109789/6772
+#EXTINF: -1 tvg-id="discoverychannel.id" tvg-logo="http://tvmalaysia.cc:80/images/7ed93200cf21a116c4442e21c7a02077.png" group-title="LIVE | DOCUMENTARY (subtitle)", Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/109789/109789/7078
+#EXTINF: -1 tvg-id="discoverychannel.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="LIVE | DOCUMENTARY (subtitle)", Discovery HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6773
+#EXTINF: -1 tvg-name="Discovery HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6dqBvQ9hs15JJzInWGrcNHfhs4qAf4eTKNQ&amp;usqp=CAU" group-title="LIVE | DOCUMENTARY (subtitle)", Discovery HD
+http://iptv12k.com:35461/8022011502/123456/627
+#EXTINF: -1 tvg-id="discoveryscience.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Discovery_Science_2017_Logo.svg" group-title="LIVE | DOCUMENTARY (subtitle)", Discovery Science HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6774
+#EXTINF: -1 tvg-name="DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png" group-title="LIVE | DOCUMENTARY (subtitle)", DMAX HD
+http://iptv12k.com:35461/8022011502/123456/636
+#EXTINF: -1 tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="LIVE | DOCUMENTARY (subtitle)", E! HD
+http://iptv12k.com:35461/8022011502/123456/637
+#EXTINF: -1 tvg-id="foodnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="LIVE | DOCUMENTARY (subtitle)", Food Network HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6785
+#EXTINF: -1 tvg-id="hgtv.id" tvg-logo="http://tvmalaysia.cc:80/images/4192dec476abaf95ac12a1c7bf4fac8a.png" group-title="LIVE | DOCUMENTARY (subtitle)", HGTV
+http://iptv.tvmalaysia.cc:80/109789/109789/7076
+#EXTINF: -1 tvg-id="MY: HGTV HD" tvg-logo="http://tvmalaysia.cc:80/images/4192dec476abaf95ac12a1c7bf4fac8a.png" group-title="LIVE | DOCUMENTARY (subtitle)", HGTV HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6798
+#EXTINF: -1 tvg-id="history.id" tvg-logo="http://tvmalaysia.cc:80/images/dd7b010687cfcea60ac06fb8cca52b58.png" group-title="LIVE | DOCUMENTARY (subtitle)", History FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7079
+#EXTINF: -1 tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIVE | DOCUMENTARY (subtitle)", Love Nature HD
+http://iptv12k.com:35461/8022011502/123456/621
+#EXTINF: -1 tvg-id="blueantentertainment.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Blue_Ant_Media_Logo.svg" group-title="LIVE | DOCUMENTARY (subtitle)", Blue Ant Entertainment
+http://iptv.tvmalaysia.cc:80/109789/109789/8860
+#EXTINF: -1 tvg-name="Luxe TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Luxe_TV.png" group-title="LIVE | DOCUMENTARY (subtitle)", Luxe TV HD
+http://iptv12k.com:35461/8022011502/123456/620
+#EXTINF: -1 tvg-id="nationalgeographicpeople.id" tvg-logo="http://tvmalaysia.cc:80/images/84314082bdc10a95365185a7f59d41bd.png" group-title="LIVE | DOCUMENTARY (subtitle)", Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/109789/109789/7080
+#EXTINF: -1 tvg-id="blueantextreme.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Blue_Ant_Media_Logo.svg" group-title="LIVE | DOCUMENTARY (subtitle)", Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/109789/109789/8861
+#EXTINF: -1 tvg-id="nationalgeographicwild.id" tvg-logo="http://tvmalaysia.cc:80/images/974fd3251e5b8259b967eacd5d21f59d.png" group-title="LIVE | DOCUMENTARY (subtitle)", Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/109789/109789/7081
+#EXTINF: -1 tvg-id="nationalgeographicchannel.id" tvg-logo="http://tvmalaysia.cc:80/images/edf7b3059b4da12abbe837d6a3295bcd.png" group-title="LIVE | DOCUMENTARY (subtitle)", National Geographic HD
+http://iptv.tvmalaysia.cc:80/109789/109789/7075
+#EXTINF: -1 tvg-name="OUTDOOR" tvg-logo="https://i.loli.net/2021/10/07/wU2igOEWNG6asTM.png" group-title="LIVE | DOCUMENTARY (subtitle)", OUTDOOR
+http://iptv12k.com:35461/8022011502/123456/582
+#EXTINF: -1 tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" group-title="LIVE | DOCUMENTARY (subtitle)", TLC HD
+http://iptv12k.com:35461/8022011502/123456/639
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="LIVE | DOCUMENTARY (subtitle)", Travel Channel HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6833
+#EXTINF: -1 tvg-id="tlc.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" group-title="LIVE | DOCUMENTARY (subtitle)", TLC
+http://iptv.tvmalaysia.cc:80/109789/109789/8862
+#EXTINF: -1 tvg-name="ASTRO Oh!K HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png" group-title="LIVE | KOREA", ASTRO Oh!K HD
+http://iptv12k.com:35461/8022011502/123456/712
+#EXTINF: -1 tvg-id="ohk.my" tvg-logo="http://tvmalaysia.cc:80/images/3452a54809e37547767708f28b323a47.png" group-title="LIVE | KOREA", ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6726
+#EXTINF: -1 tvg-name="KBS World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="LIVE | KOREA", KBS World HD
+http://iptv12k.com:35461/8022011502/123456/713
+#EXTINF: -1 tvg-id="MY: K-PLUS HD" tvg-logo="http://tvmalaysia.cc:80/images/46dfac4cad4196ea903861dfc1a3b94c.jpg" group-title="LIVE | KOREA", KPlus HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6805
+#EXTINF: -1 tvg-name="One HD" tvg-logo="http://tvmalaysia.cc:80/images/de98374c5fa7c3d3be19487ca6c85156.png" group-title="LIVE | KOREA", One HD
+http://iptv12k.com:35461/8022011502/123456/711
+#EXTINF: -1 tvg-id="one.my" tvg-logo="http://tvmalaysia.cc:80/images/de98374c5fa7c3d3be19487ca6c85156.png" group-title="LIVE | KOREA", One HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6817
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/GEM_2020.png" group-title="LIVE | KOREA", Sony Gem
+http://iptv.tvmalaysia.cc:80/109789/109789/8864
+#EXTINF: -1 tvg-id="sonyonehd.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/SonyOne.png" group-title="LIVE | KOREA", Sony One
+http://iptv.tvmalaysia.cc:80/109789/109789/8863
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/083d43eeb6efe3b96effcc6340852458.png" group-title="LIVE | KOREA", TvN
+http://iptv.tvmalaysia.cc:80/109789/109789/8865
+#EXTINF: -1 tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/083d43eeb6efe3b96effcc6340852458.png" group-title="LIVE | KOREA", tvN HD
+http://iptv12k.com:35461/8022011502/123456/714
+#EXTINF: -1 tvg-name="[ID] Celestial Movies" tvg-logo="https://i.loli.net/2021/10/07/9aN8LSQkigCe7dh.jpg" group-title=" LIVE | VARIETY", [ID] Celestial Movies
+http://iptv12k.com:35461/8022011502/123456/692
+#EXTINF: -1 tvg-name="AEC ASTRO BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title=" LIVE | VARIETY", AEC ASTRO BACKUP
+http://iptv12k.com:35461/8022011502/123456/4341
+#EXTINF: -1 tvg-id="astroaec.my" tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png" group-title=" LIVE | VARIETY", ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6701
+#EXTINF: -1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title=" LIVE | VARIETY", ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6702
+#EXTINF: -1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title=" LIVE | VARIETY", ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6703
+#EXTINF: -1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-logo="http://tvmalaysia.cc:80/images/fec06cc8554e1b382eb9592918638974.png" group-title=" LIVE | VARIETY", ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6704
+#EXTINF: -1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-logo="http://tvmalaysia.cc:80/images/2bc91972c202879d05a1d98c8131de12.png" group-title=" LIVE | VARIETY", ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6705
+#EXTINF: -1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-logo="http://tvmalaysia.cc:80/images/4ecbf4199ba725a25362149501b9ae90.png" group-title=" LIVE | VARIETY", ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6706
+#EXTINF: -1 tvg-id="MY: HELLO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Hello_TV.png" group-title=" LIVE | VARIETY", ASTRO Hello
+http://iptv.tvmalaysia.cc:80/109789/109789/6721
+#EXTINF: -1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png" group-title=" LIVE | VARIETY", ASTRO Hua Hee Dai HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6722
+#EXTINF: -1 tvg-id="HuaHeeDai.my" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png" group-title=" LIVE | VARIETY", ASTRO Hua Hee Dai HD
+http://iptv12k.com:35461/8022011502/123456/707
+#EXTINF: -1 tvg-id="MY: iQIYI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/IQiyi_logo.svg" group-title=" LIVE | VARIETY", ASTRO iQIYI HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6723
+#EXTINF: -1 tvg-name="ASTRO iQIYI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/IQiyi_logo.svg" group-title=" LIVE | VARIETY", ASTRO iQIYI HD
+http://iptv12k.com:35461/8022011502/123456/708
+#EXTINF: -1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Astro_Quan_Jia_HD.png" group-title=" LIVE | VARIETY", ASTRO Quan Jia HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6728
+#EXTINF: -1 tvg-name="ASTRO Quan Jia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Astro_Quan_Jia_HD.png" group-title=" LIVE | VARIETY", ASTRO Quan Jia HD
+http://iptv12k.com:35461/8022011502/123456/710
+#EXTINF: -1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title=" LIVE | VARIETY", ASTRO Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6731
+#EXTINF: -1 tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title=" LIVE | VARIETY", ASTRO Shuang Xing HD
+http://iptv12k.com:35461/8022011502/123456/706
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/AstroWahLaiToihdlogo.jpg" group-title=" LIVE | VARIETY", Astro Wah Lai Toi
+http://iptv.tvmalaysia.cc:80/109789/109789/8970
+#EXTINF: -1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title=" LIVE | VARIETY", ASTRO Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6741
+#EXTINF: -1 tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title=" LIVE | VARIETY", ASTRO Xiao Tai Yang HD
+http://iptv12k.com:35461/8022011502/123456/700
+#EXTINF: -1 tvg-name="CCM" tvg-logo="https://i.loli.net/2021/10/07/5HTMx4kW2iOaIPJ.jpg" group-title=" LIVE | VARIETY", CCM
+http://iptv12k.com:35461/8022011502/123456/693
+#EXTINF: -1 tvg-id="MY: CCTV4  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f6/CCTV_4.jpg" group-title=" LIVE | VARIETY", CCTV4 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6759
+#EXTINF: -1 tvg-id="MY: CELESTIAL CLASSIC MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Logo_Celestial_CM.jpg" group-title=" LIVE | VARIETY", Celestial Classic Movies
+http://iptv.tvmalaysia.cc:80/109789/109789/6758
+#EXTINF: -1 tvg-id="MY: CELESTIAL MOVIES HD" tvg-logo="https://i.loli.net/2021/10/07/9aN8LSQkigCe7dh.jpg" group-title=" LIVE | VARIETY", Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6760
+#EXTINF: -1 tvg-id="crimeinvestigation.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title=" LIVE | VARIETY", Crime & Investigation
+http://iptv.tvmalaysia.cc:80/109789/109789/8858
+#EXTINF: -1 tvg-name="CTI Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/CTITV_logo.gif" group-title=" LIVE | VARIETY", CTI Asia
+http://iptv12k.com:35461/8022011502/123456/694
+#EXTINF: -1 tvg-name="Maah tv" tvg-logo="https://www.coolstreaming.us/img/ch/ima24238087143.jpg" group-title=" LIVE | VARIETY", Maah tv
+http://iptv12k.com:35461/8022011502/123456/720
+#EXTINF: -1 tvg-name="My-Phoenix Chinese Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Phoenix_Chinese.svg" group-title=" LIVE | VARIETY", My-Phoenix Chinese Channel
+http://iptv12k.com:35461/8022011502/123456/1822
+#EXTINF: -1 tvg-name="Now International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Now_TV.png" group-title=" LIVE | VARIETY", Now International
+http://iptv12k.com:35461/8022011502/123456/691
+#EXTINF: -1 tvg-name="Star Chinese Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title=" LIVE | VARIETY", Star Chinese Channel HD
+http://iptv12k.com:35461/8022011502/123456/690
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Tvb_logo.svg" group-title=" LIVE | VARIETY", TVB Classic
+http://iptv.tvmalaysia.cc:80/109789/109789/6839
+#EXTINF: -1 tvg-id="animalplanet.my" tvg-logo="http://gene7299.github.io/tvblive/images/jade.jpg" group-title=" LIVE | VARIETY", TVB Jade HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6841
+#EXTINF: -1 tvg-name="TVB Jade HD" tvg-logo="http://gene7299.github.io/tvblive/images/jade.jpg" group-title=" LIVE | VARIETY", TVB Jade HD
+http://iptv12k.com:35461/8022011502/123456/698
+#EXTINF: -1 tvg-id="animalplanet.my" tvg-logo="https://i.loli.net/2021/10/04/XAksoGPegS8327i.jpg" group-title=" LIVE | VARIETY", TVB Xing He HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6842
+#EXTINF: -1 tvg-name="TVB Xing He HD" tvg-logo="https://i.loli.net/2021/10/04/XAksoGPegS8327i.jpg" group-title=" LIVE | VARIETY", TVB Xing He HD
+http://iptv12k.com:35461/8022011502/123456/696
+#EXTINF: -1 tvg-name="TVBS Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title=" LIVE | VARIETY", TVBS Asia HD
+http://iptv12k.com:35461/8022011502/123456/695
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/AstroWahLaiToihdlogo.jpg" group-title=" LIVE | VARIETY", WLT JADE
+http://iptv.tvmalaysia.cc:80/109789/109789/8836
+#EXTINF: -1 tvg-name="Aniplus HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="LIVE | Kids Channel", Aniplus HD
+http://iptv12k.com:35461/8022011502/123456/686
+#EXTINF: -1 tvg-id="Ceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png" group-title="LIVE | Kids Channel", ASTRO Ceria HD
+http://iptv12k.com:35461/8022011502/123456/730
+#EXTINF: -1 tvg-id="astroceria.my" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png" group-title="LIVE | Kids Channel", ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6715
+#EXTINF: -1 tvg-name="Baby First" tvg-logo="https://www.useetv.com/pimages/logo_babyfirst_small.png" group-title="LIVE | Kids Channel", Baby First
+http://iptv12k.com:35461/8022011502/123456/616
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/cbbb9baf13ed60a79f4d06b632de30a7.png" group-title="LIVE | Kids Channel", Boomerang
+http://iptv.tvmalaysia.cc:80/109789/109789/7199
+#EXTINF: -1 tvg-name="Boomerang HD" tvg-logo="http://tvmalaysia.cc:80/images/cbbb9baf13ed60a79f4d06b632de30a7.png" group-title="LIVE | Kids Channel", Boomerang HD
+http://iptv12k.com:35461/8022011502/123456/614
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/a4cbae9d01fdd8ecb52a9392e9779500.png" group-title="LIVE | Kids Channel", Cartoon Network FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7200
+#EXTINF: -1 tvg-id="cartoonnetwork.my" tvg-logo="http://tvmalaysia.cc:80/images/a4cbae9d01fdd8ecb52a9392e9779500.png" group-title="LIVE | Kids Channel", Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6757
+#EXTINF: -1 tvg-name="Cartoon Network HD" tvg-logo="https://i.loli.net/2021/10/03/n7rjHIAmacGBOQD.png" group-title="LIVE | Kids Channel", Cartoon Network HD
+http://iptv12k.com:35461/8022011502/123456/618
+#EXTINF: -1 tvg-name="Cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/CBeebies.svg" group-title="LIVE | Kids Channel", Cbeebies
+http://iptv12k.com:35461/8022011502/123456/615
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/ef4fabd4e0fca1518f291f3efa28af78.png" group-title="LIVE | Kids Channel", Disney Channel HD
+http://iptv.tvmalaysia.cc:80/109789/109789/7196
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg" group-title="LIVE | Kids Channel", Disney Junior
+http://iptv.tvmalaysia.cc:80/109789/109789/7197
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/c3896ad41e89883aaf0547ddfd282654.png" group-title="LIVE | Kids Channel", Disney XD FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7198
+#EXTINF: -1 tvg-name="Disney XD HD" tvg-logo="http://tvmalaysia.cc:80/images/c3896ad41e89883aaf0547ddfd282654.png" group-title="LIVE | Kids Channel", Disney XD HD
+http://iptv12k.com:35461/8022011502/123456/626
+#EXTINF: -1 tvg-name="Dreamworks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg" group-title="LIVE | Kids Channel", Dreamworks HD
+http://iptv12k.com:35461/8022011502/123456/613
+#EXTINF: -1 tvg-id="nickelodeonjunior.my" tvg-logo="http://tvmalaysia.cc:80/images/80eba87008619a2539d0fbf7c162db64.png" group-title="LIVE | Kids Channel", Nick Jr
+http://iptv.tvmalaysia.cc:80/109789/109789/6813
+#EXTINF: -1 tvg-name="Nick Jr" tvg-logo="http://tvmalaysia.cc:80/images/80eba87008619a2539d0fbf7c162db64.png" group-title="LIVE | Kids Channel", Nick Jr
+http://iptv12k.com:35461/8022011502/123456/619
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/bab494e5d5780225b27ce7359f94af6d.png" group-title="LIVE | Kids Channel", Nickelodeon
+http://iptv.tvmalaysia.cc:80/109789/109789/7201
+#EXTINF: -1 tvg-id="nickelodeon.my" tvg-logo="http://tvmalaysia.cc:80/images/bab494e5d5780225b27ce7359f94af6d.png" group-title="LIVE | Kids Channel", Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6814
+#EXTINF: -1 tvg-name="Nickelodeon HD" tvg-logo="https://i.loli.net/2021/10/05/q6OyhI7GrbjkUJP.png" group-title="LIVE | Kids Channel", Nickelodeon HD
+http://iptv12k.com:35461/8022011502/123456/617
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Nicktoons-on-Nickelodeon-Animation-Studio-logo.png" group-title="LIVE | Kids Channel", Nicktoons FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7202
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/8985a572e51ecb7ce012534afd3a54a8.jpg" group-title="LIVE | Kids Channel", STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/109789/109789/8991
+#EXTINF: -1 tvg-name="TA-DAA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/TA-DAA%21_HD.png" group-title="LIVE | Kids Channel", TA-DAA
+http://iptv12k.com:35461/8022011502/123456/744
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/e4a6580d43f6aa73a544d82ea2645dc9.jpg" group-title="LIVE | Kids Channel", Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/109789/109789/8986
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="LIVE | Kids Channel", Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7205
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Starz_Kids_%26_Family_2016.svg" group-title="LIVE | Kids Channel", USA: STARZ Kids & Family FHD
+http://iptv.tvmalaysia.cc:80/109789/109789/7204
+#EXTINF: -1 group-title="LIVE | SPORTS", === ASTRO SPORTS ===
+http://iptv.tvmalaysia.cc:80/109789/109789/7214
+#EXTINF: -1 group-title="LIVE | SPORTS", === BT SPORT ===
+http://iptv.tvmalaysia.cc:80/109789/109789/7218
+#EXTINF: -1 group-title="LIVE | SPORTS", === DSTV Supersport ===
+http://iptv.tvmalaysia.cc:80/109789/109789/7215
+#EXTINF: -1 group-title="LIVE | SPORTS", === SKY SPORTS ===
+http://iptv.tvmalaysia.cc:80/109789/109789/7217
+#EXTINF: -1 group-title="LIVE | SPORTS", ====== EURO 2020 ======
+http://iptv.tvmalaysia.cc:80/109789/109789/8885
+#EXTINF: -1 group-title="LIVE | SPORTS", ====== TSN ======
+http://iptv.tvmalaysia.cc:80/109789/109789/8969
+#EXTINF: -1 tvg-id="astroarena2.my" group-title="LIVE | SPORTS", ASTRO Arena 2
+http://iptv.tvmalaysia.cc:80/109789/109789/9028
+#EXTINF: -1 tvg-id="astrosupersport.my" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="LIVE | SPORTS", ASSP 1
+http://iptv.tvmalaysia.cc:80/109789/109789/9024
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="LIVE | SPORTS", ASSP 2
+http://iptv.tvmalaysia.cc:80/109789/109789/9025
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="LIVE | SPORTS", ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/109789/109789/9020
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="LIVE | SPORTS", ASSP 4
+http://iptv.tvmalaysia.cc:80/109789/109789/9026
+#EXTINF: -1 tvg-name="ASTRO Arena HD" tvg-logo="https://itsmiyagi.site:443/images/216beb06b8f7000b407c5450338b58e9.png" group-title="LIVE | SPORTS", ASTRO Arena HD
+http://iptv12k.com:35461/8022011502/123456/688
+#EXTINF: -1 tvg-id="astroarena.my" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="LIVE | SPORTS", ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6707
+#EXTINF: -1 tvg-name="ASTRO Cricket" tvg-logo="https://itsmiyagi.site:443/images/13fbd02207816eb73047f9dc9b97e633.png" group-title="LIVE | SPORTS", ASTRO Cricket
+http://iptv12k.com:35461/8022011502/123456/684
+#EXTINF: -1 tvg-id="astrocricket.my" tvg-logo="http://tvmalaysia.cc:80/images/d026d4b7a8a45bbb05249ba5698dc37b.png" group-title="LIVE | SPORTS", ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/109789/109789/6717
+#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6710
+#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6711
+#EXTINF: -1 tvg-id="astrosupersport4.my" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6712
+#EXTINF: -1 group-title="LIVE | SPORTS", Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/109789/109789/9029
+#EXTINF: -1 tvg-id="astrosupersport.my" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="LIVE | SPORTS", ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6708
+#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="Astro Supersports Premier 4" tvg-logo="https://itsmiyagi.site:443/images/b84e0751d715dc85e0401ec618217720.png" group-title="LIVE | SPORTS", Astro Supersports Premier 4
+http://iptv12k.com:35461/8022011502/123456/653
+#EXTINF: -1 tvg-id="AstroSuperSport.my" tvg-name="Astro Supersports Premier League 1" tvg-logo="https://itsmiyagi.site:443/images/3c6143e3e962d743ece51ef488c0beda.png" group-title="LIVE | SPORTS", Astro Supersports Premier League 1
+http://iptv12k.com:35461/8022011502/123456/656
+#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-name="Astro Supersports Premier League 2" tvg-logo="https://itsmiyagi.site:443/images/3c6143e3e962d743ece51ef488c0beda.png" group-title="LIVE | SPORTS", Astro Supersports Premier League 2
+http://iptv12k.com:35461/8022011502/123456/655
+#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-name="Astro Supersports Premier League 3" tvg-logo="https://itsmiyagi.site:443/images/3c6143e3e962d743ece51ef488c0beda.png" group-title="LIVE | SPORTS", Astro Supersports Premier League 3
+http://iptv12k.com:35461/8022011502/123456/654
+#EXTINF: -1 tvg-id="beinsportsmax.my" tvg-logo="http://tvmalaysia.cc:80/images/d339916b681e912fa219a6eae2127dbc.png" group-title="LIVE | SPORTS", beIN MAX
+http://iptv.tvmalaysia.cc:80/109789/109789/6748
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/25c358ffb322d20078dcd7507903bfe0.png" group-title="LIVE | SPORTS", beIN MAX 2
+http://iptv.tvmalaysia.cc:80/109789/109789/7195
+#EXTINF: -1 tvg-id="SA: BEIN SPORTS HD1 ARABIC" tvg-logo="http://tvmalaysia.cc:80/images/06d5976044ac1e15c86715663c3757f0.png" group-title="LIVE | SPORTS", BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/109789/109789/6597
+#EXTINF: -1 tvg-id="SA: BEIN SPORTS HD13 ARABIC" tvg-logo="https://i.postimg.cc/cHkkPSjM/1606697595212.png" group-title="LIVE | SPORTS", BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/109789/109789/6609
+#EXTINF: -1 tvg-id="SA: BEIN SPORTS HD2 ARABIC" tvg-logo="https://i.postimg.cc/wxh6K4F8/1606697373987.png" group-title="LIVE | SPORTS", BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/109789/109789/6598
+#EXTINF: -1 tvg-id="beinsports.my" tvg-logo="http://tvmalaysia.cc:80/images/6b747581bd9a32ce47686fd2f486d509.png" group-title="LIVE | SPORTS", beIN Sports
+http://iptv.tvmalaysia.cc:80/109789/109789/6749
+#EXTINF: -1 tvg-id="btsport1.uk" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="LIVE | SPORTS", BT Sport 1
+http://iptv.tvmalaysia.cc:80/109789/109789/6610
+#EXTINF: -1 tvg-id="btsport2.uk" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="LIVE | SPORTS", BT Sport 2
+http://iptv.tvmalaysia.cc:80/109789/109789/6611
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="LIVE | SPORTS", BT Sport 3
+http://iptv.tvmalaysia.cc:80/109789/109789/6612
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/38d170f4abf9bf163ba3ac527b37ae72.jpg" group-title="LIVE | SPORTS", BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/109789/109789/6613
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png" group-title="LIVE | SPORTS", DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/109789/109789/6581
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png" group-title="LIVE | SPORTS", DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/109789/109789/6584
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/87f9188df2215a476290fa0e98b0e751.png" group-title="LIVE | SPORTS", DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/109789/109789/6583
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="LIVE | SPORTS", DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/109789/109789/6576
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/e28814adfb6334b34050a52e869942f4.png" group-title="LIVE | SPORTS", DSTV: SuperSport Golf
+http://iptv.tvmalaysia.cc:80/109789/109789/7145
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png" group-title="LIVE | SPORTS", DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/109789/109789/6572
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/b674bea2086e1a86466b75fb7fcae449.png" group-title="LIVE | SPORTS", DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/109789/109789/6575
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png" group-title="LIVE | SPORTS", DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/109789/109789/6585
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/37f395b028a84d01a369dcf992acf533.png" group-title="LIVE | SPORTS", DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/109789/109789/7142
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png" group-title="LIVE | SPORTS", DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/109789/109789/6574
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png" group-title="LIVE | SPORTS", DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/109789/109789/6573
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png" group-title="LIVE | SPORTS", DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/109789/109789/6582
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/prhfQQbf/1613351683433.png" group-title="LIVE | SPORTS", DSTV: SuperSport Tennis
+http://iptv.tvmalaysia.cc:80/109789/109789/7143
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="LIVE | SPORTS", DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/109789/109789/6577
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="LIVE | SPORTS", DSTV: SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/109789/109789/6578
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="LIVE | SPORTS", DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/109789/109789/6579
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png" group-title="LIVE | SPORTS", DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/109789/109789/6580
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x1RzzpNr/1613350615698.png" group-title="LIVE | SPORTS", DSTV: SuperSport WWE
+http://iptv.tvmalaysia.cc:80/109789/109789/7144
+#EXTINF: -1 tvg-name="Eurosport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTE9Z2aQb7cvpG6Hci_kE4edlIiO9JYun6vpg&amp;usqp=CAU" group-title="LIVE | SPORTS", Eurosport HD
+http://iptv12k.com:35461/8022011502/123456/647
+#EXTINF: -1 tvg-id="foxsports1.my" tvg-logo="http://tvmalaysia.cc:80/images/7b12069fe4f3b017933882e7fd2bdf91.png" group-title="LIVE | SPORTS", FOX Sports HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6793
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/b4b42aee84ec26d35dc2b750d2b29b86.png" group-title="LIVE | SPORTS", FS 1
+http://iptv.tvmalaysia.cc:80/109789/109789/9003
+#EXTINF: -1 tvg-id="GolfChannel.my" tvg-name="Golf Channel HD" tvg-logo="https://itsmiyagi.site:443/images/e8726b82a2e571039f46f08b5381863e.png" group-title="LIVE | SPORTS", Golf Channel HD
+http://iptv12k.com:35461/8022011502/123456/651
+#EXTINF: -1 tvg-id="MY: GOLF CHANNEL HD" tvg-logo="http://tvmalaysia.cc:80/images/1eb1cee8b5e1c96e92721e3ca5ab59d5.jpg" group-title="LIVE | SPORTS", Golf Channel HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6796
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/12d36e8d63d3c1800885615edc4b961b.png" group-title="LIVE | SPORTS", LFC TV
+http://iptv.tvmalaysia.cc:80/109789/109789/7237
+#EXTINF: -1 group-title="LIVE | SPORTS", LowBW UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/109789/109789/7265
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="LIVE | SPORTS", MUTV
+http://iptv.tvmalaysia.cc:80/109789/109789/7236
+#EXTINF: -1 group-title="LIVE | SPORTS", PPV Boxing
+http://iptv.tvmalaysia.cc:80/109789/109789/7263
+#EXTINF: -1 tvg-id="RugbyPass.my" tvg-name="Rugby Pass TV" tvg-logo="https://itsmiyagi.site:443/images/aea38fa01119676aafa83cc7ab2118a5.png" group-title="LIVE | SPORTS", Rugby Pass TV
+http://iptv12k.com:35461/8022011502/123456/687
+#EXTINF: -1 tvg-id="MY: RUGBYPASS TV HD" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png" group-title="LIVE | SPORTS", Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/109789/109789/6821
+#EXTINF: -1 group-title="LIVE | SPORTS", TSN 1
+http://iptv.tvmalaysia.cc:80/109789/109789/8923
+#EXTINF: -1 group-title="LIVE | SPORTS", TSN 2
+http://iptv.tvmalaysia.cc:80/109789/109789/8924
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/ce83c9dafcbc830749282d5524acfff0.png" group-title="LIVE | SPORTS", TSN 3
+http://iptv.tvmalaysia.cc:80/109789/109789/8925
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="LIVE | SPORTS", TSN 4
+http://iptv.tvmalaysia.cc:80/109789/109789/8926
+#EXTINF: -1 group-title="LIVE | SPORTS", UFC
+http://iptv.tvmalaysia.cc:80/109789/109789/7259
+#EXTINF: -1 group-title="LIVE | SPORTS", UFC PPV Early Prelims
+http://iptv.tvmalaysia.cc:80/109789/109789/7260
+#EXTINF: -1 group-title="LIVE | SPORTS", UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/109789/109789/7262
+#EXTINF: -1 group-title="LIVE | SPORTS", UFC PPV Prelims
+http://iptv.tvmalaysia.cc:80/109789/109789/7261
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/SN2mJK5v/a95.png" group-title="LIVE | SPORTS", UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/109789/109789/7112
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J7yhBKHx/a1442.png" group-title="LIVE | SPORTS", UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/109789/109789/7113
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/62a88170b4d23cef2f5dcab8c83c882a.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/109789/109789/6615
+#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png" group-title="LIVE | SPORTS", UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/109789/109789/6619
+#EXTINF: -1 tvg-id="skysportsf1.uk" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="LIVE | SPORTS", UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/109789/109789/6617
+#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/109789/109789/6620
+#EXTINF: -1 tvg-id="skysportsgolf.uk" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="LIVE | SPORTS", UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/109789/109789/6618
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/mZF73SFL/IMG-20210105-104902.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/109789/109789/7115
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/109789/109789/7116
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="LIVE | SPORTS", UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/109789/109789/6614
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/kGr6Yktn/IMG-20210105-105040.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/109789/109789/6621
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/CKyND6cV/IMG-20210105-104354.jpg" group-title="LIVE | SPORTS", UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/109789/109789/7114
+#EXTINF: -1 tvg-name="WWE Network" tvg-logo="https://itsmiyagi.site:443/images/41976dd2368b891cc99e23e5883b3ee2.png" group-title="LIVE | SPORTS", WWE Network
+http://iptv12k.com:35461/8022011502/123456/652
+#EXTINF: -1 tvg-id="MY: WWE NETWORK HD" tvg-logo="http://tvmalaysia.cc:80/images/297022c4d9d50d89105c1d86a7c2b2c4.png" group-title="LIVE | SPORTS", WWE Network
+http://iptv.tvmalaysia.cc:80/109789/109789/6849
+#EXTINF: -1 tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title="LIVE | INDONESIA", [untitled]
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="LIVE | INDONESIA", [untitled]
+http://nonton.wap.sh/id/015.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LIVE | INDONESIA", ANTV HD
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF: -1 tvg-id="astroaura.my" tvg-logo="http://tvmalaysia.cc:80/images/0b67d68665c92067221b479621db7952.png" group-title="LIVE | INDONESIA", ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6713
+#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="ASTRO Aura HD Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="LIVE | INDONESIA", ASTRO Aura HD Malaysia
+http://iptv12k.com:35461/8022011502/123456/3949
+#EXTINF: -1 tvg-id="Naura.my" tvg-name="ASTRO Naura HD" tvg-logo="https://itsmiyagi.site:443/images/c2a1e1db21f959cb6ee770cdc0640f7c.png" group-title="LIVE | INDONESIA", ASTRO Naura HD
+http://iptv12k.com:35461/8022011502/123456/729
+#EXTINF: -1 tvg-id="AstroRania.my" tvg-name="ASTRO Rania HD" tvg-logo="https://itsmiyagi.site:443/images/207d2854bbdf73c7ff3903e48e2681a6.png" group-title="LIVE | INDONESIA", ASTRO Rania HD
+http://iptv12k.com:35461/8022011502/123456/728
+#EXTINF: -1 tvg-id="astrorania.my" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png" group-title="LIVE | INDONESIA", ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6729
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/T1QW4qr4/BADAR-TV.png" group-title="LIVE | INDONESIA", BADAR TV
+https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="LIVE | INDONESIA", BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF: -1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="LIVE | INDONESIA", Berita Satu HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DLt5SLw/beritasatu.png" group-title="LIVE | INDONESIA", Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/0NMMwkfg/BNTV.png" group-title="LIVE | INDONESIA", BNTV Channel
+https://andriant.net/andrian.m3u8?channel=bn-tv
+#EXTINF: -1 tvg-logo="https://i.ibb.co/jyKgLhq/20200225-092529.png" group-title="LIVE | INDONESIA", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF: -1 tvg-id="CNN.id" tvg-name="CNN Indonesia" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="LIVE | INDONESIA", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/68_144.png" group-title="LIVE | INDONESIA", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png" group-title="LIVE | INDONESIA", CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WxMM0S7/daaitv.png" group-title="LIVE | INDONESIA", Daai TV
+http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fT3grLq6/DIGDAYA-TV.png" group-title="LIVE | INDONESIA", DIGDAYA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShnX1DCohludH10nERACPzKHyyUxgX_PlOdA&usqp=CAU" group-title="LIVE | INDONESIA", Elshinta TV
+http://syarman.hexat.com/INDONESIA%20HD/elshinta.m3u8
+#EXTINF: -1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.postimg.cc/mrNtDRD4/GTV-logo-2017.png" group-title="LIVE | INDONESIA", GTV
+http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF: -1 tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png" group-title="LIVE | INDONESIA", GTV
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TJGKORi.png" group-title="LIVE | INDONESIA", Hi indo!
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+#EXTINF: -1 tvg-name="Indosiar" group-title="LIVE | INDONESIA", Indosiar
+http://iptv12k.com:35461/8022011502/123456/595
+#EXTINF: -1 tvg-logo="https://i.kampung.xyz/c/471c5cb2067763ea.png" group-title="LIVE | INDONESIA", INDOSIAR
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+#EXTINF: -1 tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LIVE | INDONESIA", Indosiar
+http://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF: -1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.postimg.cc/rmVzRb0r/1280px-INews-TV-logo-svg.png" group-title="LIVE | INDONESIA", iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF: -1 tvg-logo="https://static.mncnow.id/images/channel/182d1c3d/c6f1.png" group-title="LIVE | INDONESIA", INEWS
+https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cHrs0fbk/JG.jpg" group-title="LIVE | INDONESIA", Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="LIVE | INDONESIA", KOMPAS TV
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GyUdOi7myCJDZWkIqBEuasQ)/dm/3/x6pz4sa/d/live-3.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="LIVE | INDONESIA", Kompas Tv
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+#EXTINF: -1 tvg-id="METROTV.id" tvg-name="MetroTV" tvg-logo="https://i.postimg.cc/fbKRsK2T/image.png" group-title="LIVE | INDONESIA", MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/3NPK1bR9/image.png" group-title="LIVE | INDONESIA", MNC TV
+http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF: -1 tvg-logo="https://static.mncnow.id/images/channel/99cf87f4/d2c2.png" group-title="LIVE | INDONESIA", MNCTV
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+#EXTINF: -1 tvg-name="MY: ASTRO GO Shop Rumma" tvg-logo="https://d3avoj45mekucs.cloudfront.net/ulagam/media/2017/astro-go-resized-(2).jpg?ext=.jpg" group-title="LIVE | INDONESIA", MY: ASTRO GO Shop Rumma
+http://iptv12k.com:35461/8022011502/123456/3748
+#EXTINF: -1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="LIVE | INDONESIA", MyTV
+http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="LIVE | INDONESIA", NetTV HD
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+#EXTINF: -1 tvg-logo="http://dusktill.masuk.web.id/img/oktv.png" group-title="LIVE | INDONESIA", OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+#EXTINF: -1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/yYZ6xBQG/image.png" group-title="LIVE | INDONESIA", RCTI
+http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF: -1 tvg-logo="https://i.kampung.xyz/c/33812f1ce517e50b.png" group-title="LIVE | INDONESIA", RTV
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+#EXTINF: -1 tvg-logo="https://i.kampung.xyz/c/5c16f2fcdb2dd0db.png" group-title="LIVE | INDONESIA", SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/65P4gJ9n/sinema-indonesia.jpg" group-title="LIVE | INDONESIA", SINEMA INDONESIA
+http://210.210.155.35/session/589abc60-fb25-11eb-82e0-c81f66f89318/uq2663/h/h155/index2.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="LIVE | INDONESIA", THE INDONESIA CHANNEL
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="LIVE | INDONESIA", TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="LIVE | INDONESIA", TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="TRANS7HD.id" tvg-name="Trans7" tvg-logo="https://i.kampung.xyz/c/25310c66e8c2e425.png" group-title="LIVE | INDONESIA", Trans7
+http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="TRANSTVHD.id" tvg-name="TransTV" tvg-logo="https://i.kampung.xyz/c/8fe064c865d2b78c.png" group-title="LIVE | INDONESIA", TransTV
+http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LIVE | INDONESIA", TV ONE
+http://210.210.155.35/session/f5cd353c-0131-11ec-b286-abca8519aa62/qwr9ew/s/s105/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="LIVE | INDONESIA", TVRI
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="LIVE | INDONESIA", TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="LIVE | INDONESIA", TVRI
+http://210.210.155.35/session/f035043e-fb13-11eb-bca3-c81f66f89318/qwr9ew/s/s11/01.m3u8
+#EXTINF: -1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://i.postimg.cc/pVghqs3g/image.png" group-title="LIVE | INDONESIA", TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Qfk95m3/jc.png" group-title="LIVE | INDONESIA", TVRI SPORT HD
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png" group-title="LIVE | INDONESIA", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="LIVE | SINGAPORE", CHANNEL 5
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="LIVE | SINGAPORE", CHANNEL 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="LIVE | SINGAPORE", CHANNEL U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="LIVE | SINGAPORE", SURIA
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="LIVE | SINGAPORE", VASANTHAM
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="LIVE | INDIAN", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF: -1 tvg-id="MY: ADITHYA" tvg-logo="http://tvmalaysia.cc:80/images/fd7b86517bb8a83b4ac94a7de56cb868.png" group-title="LIVE | INDIAN", ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/109789/109789/6700
+#EXTINF: -1 tvg-name="ASTRO Adithya" tvg-logo="https://itsmiyagi.site:443/images/4ebf8fe1640116133bd903576366019a.png" group-title="LIVE | INDIAN", ASTRO Adithya
+http://iptv12k.com:35461/8022011502/123456/659
+#EXTINF: -1 tvg-id="MY: COLORS TAMIL HD" tvg-logo="http://tvmalaysia.cc:80/images/32bf2536144b1f03130e1ac5e8bb4978.png" group-title="LIVE | INDIAN", ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/109789/109789/6716
+#EXTINF: -1 tvg-name="ASTRO Colors Tamil" tvg-logo="https://itsmiyagi.site:443/images/e0b9f317bc544cdd4af46d2fe9baa6f3.png" group-title="LIVE | INDIAN", ASTRO Colors Tamil
+http://iptv12k.com:35461/8022011502/123456/665
+#EXTINF: -1 tvg-id="MY: STAR VIJAY HD" tvg-logo="http://tvmalaysia.cc:80/images/f6e171f4548ce0a27dddd272ca3a2fd1.png" group-title="LIVE | INDIAN", ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6732
+#EXTINF: -1 tvg-name="ASTRO Star Vijay HD" tvg-logo="https://itsmiyagi.site:443/images/9f15bde46209a6ae297e699230a9f951.png" group-title="LIVE | INDIAN", ASTRO Star Vijay HD
+http://iptv12k.com:35461/8022011502/123456/673
+#EXTINF: -1 tvg-id="MY: SUN TV HD" tvg-logo="http://tvmalaysia.cc:80/images/63534c20a27bcfb99af554687f874173.png" group-title="LIVE | INDIAN", ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6733
+#EXTINF: -1 tvg-id="astrovaanavil.my" tvg-logo="http://tvmalaysia.cc:80/images/3371d6366762ed4a5dcaa5209518299d.png" group-title="LIVE | INDIAN", ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6738
+#EXTINF: -1 tvg-name="ASTRO Vaanavil HD" tvg-logo="https://itsmiyagi.site:443/images/b2a453a00938f9aa9c2d2855b343b3f5.png" group-title="LIVE | INDIAN", ASTRO Vaanavil HD
+http://iptv12k.com:35461/8022011502/123456/676
+#EXTINF: -1 tvg-id="MY: ASTRO VINMEEN HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="LIVE | INDIAN", ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6739
+#EXTINF: -1 tvg-id="MY: ZEE TAMIL HD" tvg-logo="http://tvmalaysia.cc:80/images/7d4a1548640e0c2427eb4b2f73937413.png" group-title="LIVE | INDIAN", ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6742
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="LIVE | INDIAN", BollyOne HD
+tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="Indian",251 ABO BollyOne HD AOTG https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+#EXTINF: -1 tvg-id="BollyOne.my" tvg-name="BollyOne HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png" group-title="LIVE | INDIAN", BollyOne HD
+http://iptv12k.com:35461/8022011502/123456/685
+#EXTINF: -1 tvg-id="MY: CHUTTI TV" tvg-logo="http://tvmalaysia.cc:80/images/bace6bf715aa77f6318de18eb127aa11.png" group-title="LIVE | INDIAN", Chutti TV
+http://iptv.tvmalaysia.cc:80/109789/109789/6762
+#EXTINF: -1 tvg-name="Chutti TV" tvg-logo="https://itsmiyagi.site:443/images/30aae225d7b53051becd824e2301efd5.png" group-title="LIVE | INDIAN", Chutti TV
+http://iptv12k.com:35461/8022011502/123456/658
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="LIVE | INDIAN", Colors Cineplex
+http://iptv.tvmalaysia.cc:80/109789/109789/6768
+#EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://itsmiyagi.site:443/images/ca05c9e1787b167ed43f6ba1da298f49.png" group-title="LIVE | INDIAN", Colors Cineplex
+http://iptv12k.com:35461/8022011502/123456/664
+#EXTINF: -1 tvg-id="colorshd.uk" tvg-logo="http://tvmalaysia.cc:80/images/7202a9beacf59c20fd03f504686e0627.png" group-title="LIVE | INDIAN", Colors HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6769
+#EXTINF: -1 tvg-name="Colors HD" tvg-logo="https://itsmiyagi.site:443/images/01141072b15e7fe509f7e98775e33fab.png" group-title="LIVE | INDIAN", Colors HD
+http://iptv12k.com:35461/8022011502/123456/666
+#EXTINF: -1 tvg-name="Jaya Max" group-title="LIVE | INDIAN", Jaya Max
+http://iptv12k.com:35461/8022011502/123456/661
+#EXTINF: -1 tvg-logo="http://tvmalaysia.cc:80/images/5487315b1286f907165907aa8fc96619.png" group-title="LIVE | INDIAN", MNX
+http://iptv.tvmalaysia.cc:80/109789/109789/8998
+#EXTINF: -1 tvg-name="Jaya Plus" group-title="LIVE | INDIAN", Jaya Plus
+http://iptv12k.com:35461/8022011502/123456/660
+#EXTINF: -1 tvg-id="MY: MAKKAL TV" tvg-logo="http://tvmalaysia.cc:80/images/6f0d388c915491e2d09321f690b75420.png" group-title="LIVE | INDIAN", Makkal TV
+http://iptv.tvmalaysia.cc:80/109789/109789/6806
+#EXTINF: -1 tvg-name="Makkal TV" tvg-logo="https://itsmiyagi.site:443/images/dcfd760e750a2c3a6750953c3a253e45.png" group-title="LIVE | INDIAN", Makkal TV
+http://iptv12k.com:35461/8022011502/123456/674
+#EXTINF: -1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="LIVE | INDIAN", Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="LIVE | INDIAN", Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-name="My-Astro Box Office Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="LIVE | INDIAN", My-Astro Box Office Movies
+http://iptv12k.com:35461/8022011502/123456/1825
+#EXTINF: -1 tvg-name="MY-Tamil Thaai Vaazthu" tvg-logo="http://www.tamilkaraokefree.com/wp-content/uploads/2013/10/tvaztu-254x300.gif" group-title="LIVE | INDIAN", MY-Tamil Thaai Vaazthu
+http://iptv12k.com:35461/8022011502/123456/1827
+#EXTINF: -1 tvg-name="Raj TV" group-title="LIVE | INDIAN", Raj TV
+http://iptv12k.com:35461/8022011502/123456/662
+#EXTINF: -1 tvg-name="Sony SAB" tvg-logo="https://itsmiyagi.site:443/images/b4ab409546dc09b0e647c307d9d3567e.png" group-title="LIVE | INDIAN", Sony SAB
+http://iptv12k.com:35461/8022011502/123456/669
+#EXTINF: -1 tvg-name="Sony SetMAX" tvg-logo="https://itsmiyagi.site:443/images/688517fa3a86660eb2db7d28a12e2b2b.png" group-title="LIVE | INDIAN", Sony SetMAX
+http://iptv12k.com:35461/8022011502/123456/670
+#EXTINF: -1 tvg-id="MY: SUN MUSIC HD" tvg-logo="http://tvmalaysia.cc:80/images/83c076b3895f5fb89c1d11229f0612f5.png" group-title="LIVE | INDIAN", Sun Music
+http://iptv.tvmalaysia.cc:80/109789/109789/6831
+#EXTINF: -1 tvg-name="Sun Music" tvg-logo="https://itsmiyagi.site:443/images/fbba0456e4b907015a34c8942682ad0a.png" group-title="LIVE | INDIAN", Sun Music
+http://iptv12k.com:35461/8022011502/123456/671
+#EXTINF: -1 tvg-name="Sun TV HD MY" tvg-logo="https://itsmiyagi.site:443/images/83591cf148067789020ede99c37d0b00.png" group-title="LIVE | INDIAN", Sun TV HD MY
+http://iptv12k.com:35461/8022011502/123456/672
+#EXTINF: -1 tvg-name="THANGATHIRAI" group-title="LIVE | INDIAN", THANGATHIRAI
+http://iptv12k.com:35461/8022011502/123456/678
+#EXTINF: -1 tvg-name="UTV_Movies_International" group-title="LIVE | INDIAN", UTV_Movies_International
+http://iptv12k.com:35461/8022011502/123456/657
+#EXTINF: -1 tvg-name="VELLITHIRAI" group-title="LIVE | INDIAN", VELLITHIRAI
+http://iptv12k.com:35461/8022011502/123456/677
+#EXTINF: -1 tvg-name="VINMEEN" group-title="LIVE | INDIAN", VINMEEN
+http://iptv12k.com:35461/8022011502/123456/675
+#EXTINF: -1 tvg-name="Zee Cinema" group-title="LIVE | INDIAN", Zee Cinema
+http://iptv12k.com:35461/8022011502/123456/668
+#EXTINF: -1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="LIVE | INDIAN", Zee Cinema UK
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/MW0Ae9SQ_zee_smile-scaled.jpeg" group-title="LIVE | INDIAN", Zee Smile
+https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
+#EXTINF: -1 tvg-name="Zee TV HD" group-title="LIVE | INDIAN", Zee TV HD
+http://iptv12k.com:35461/8022011502/123456/667
+#EXTINF: -1 tvg-name="ABC Australia" tvg-logo="https://itsmiyagi.site:443/images/675a09a0797907ad38aa9c1ce08dff52.png" group-title="LIVE | NEWS", ABC Australia
+http://iptv12k.com:35461/8022011502/123456/592
+#EXTINF: -1 tvg-name="Animax" tvg-logo="https://itsmiyagi.site:443/images/09c98e2ac6127af65834ef08ba1af5be.png" group-title="LIVE | NEWS", Animax
+http://iptv12k.com:35461/8022011502/123456/605
+#EXTINF: -1 tvg-id="astroawani.my" tvg-logo="http://tvmalaysia.cc:80/images/4bfd1cf8ffae3783bc756c9aca65d192.png" group-title="LIVE | NEWS", ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/109789/109789/6714
+#EXTINF: -1 tvg-id="Awani.my" tvg-name="ASTRO Awani HD" tvg-logo="https://itsmiyagi.site:443/images/ceaf523c53a5b6a740fa9e4a965a5efd.png" group-title="LIVE | NEWS", ASTRO Awani HD
+http://iptv12k.com:35461/8022011502/123456/724
+#EXTINF: -1 tvg-name="BBC News HD" tvg-logo="https://itsmiyagi.site:443/images/bd0dd80470845f7431bd4704207cf5f3.png" group-title="LIVE | NEWS", BBC News HD
+http://iptv12k.com:35461/8022011502/123456/623
+#EXTINF: -1 tvg-id="bernamatv.my" tvg-logo="http://tvmalaysia.cc:80/images/5d5d2a030b4861b803f596b788efadfd.png" group-title="LIVE | NEWS", Bernama News
+http://iptv.tvmalaysia.cc:80/109789/109789/6750
+#EXTINF: -1 tvg-id="BernamaTV.my" tvg-name="Bernama News" tvg-logo="https://itsmiyagi.site:443/images/8cabcc8617461b00b1d865317e04233a.jpg" group-title="LIVE | NEWS", Bernama News
+http://iptv12k.com:35461/8022011502/123456/723
+#EXTINF: -1 tvg-id="MY: BLOOMBERG TELEVISION" tvg-logo="http://tvmalaysia.cc:80/images/0ab09328629806a9081cd6ecd6cc2fec.png" group-title="LIVE | NEWS", Bloomberg TV
+http://iptv.tvmalaysia.cc:80/109789/109789/6751
+#EXTINF: -1 tvg-name="Bloomberg TV" tvg-logo="https://itsmiyagi.site:443/images/e8c5d3b1a694994d9d642dca64520e51.png" group-title="LIVE | NEWS", Bloomberg TV
+http://iptv12k.com:35461/8022011502/123456/590
+#EXTINF: -1 tvg-id="cnbc.us" tvg-logo="http://tvmalaysia.cc:80/images/4205332d18bc720323dece4c7bb84df5.png" group-title="LIVE | NEWS", CNBC
+http://iptv.tvmalaysia.cc:80/109789/109789/6766
+#EXTINF: -1 tvg-name="CNBC" tvg-logo="https://itsmiyagi.site:443/images/97088dfecefaf790b824906440253117.png" group-title="LIVE | NEWS", CNBC
+http://iptv12k.com:35461/8022011502/123456/593
+#EXTINF: -1 tvg-name="CNN HD" tvg-logo="https://i.loli.net/2021/10/05/5DmOh72adJYUI8e.png" group-title="LIVE | NEWS", CNN HD
+http://iptv12k.com:35461/8022011502/123456/594
+#EXTINF: -1 tvg-name="DW HD" tvg-logo="https://itsmiyagi.site:443/images/933f0d61ac3da465670ca931dc61057a.png" group-title="LIVE | NEWS", DW HD
+http://iptv12k.com:35461/8022011502/123456/622
+#EXTINF: -1 tvg-name="Euronews" tvg-logo="https://itsmiyagi.site:443/images/8eec0352379a22bad3927d7d8a7286f1.png" group-title="LIVE | NEWS", Euronews
+http://iptv12k.com:35461/8022011502/123456/588
+#EXTINF: -1 tvg-name="FOX NEWS" group-title="LIVE | NEWS", FOX NEWS
+http://iptv12k.com:35461/8022011502/123456/587
+#EXTINF: -1 tvg-name="France 24 HD" tvg-logo="https://itsmiyagi.site:443/images/898bf9cb617263055b09577ff1a3ee69.png" group-title="LIVE | NEWS", France 24 HD
+http://iptv12k.com:35461/8022011502/123456/589
+#EXTINF: -1 tvg-name="My-TVB Entertainment News" tvg-logo="http://fltaradio.com/upload/2018/12/tvb-entertainment-news.jpg" group-title="LIVE | NEWS", My-TVB Entertainment News
+http://iptv12k.com:35461/8022011502/123456/1821
+#EXTINF: -1 tvg-name="Sky News HD" tvg-logo="https://itsmiyagi.site:443/images/2d63d6d8772170aeaf9270e6aa861d01.png" group-title="LIVE | NEWS", Sky News HD
+http://iptv12k.com:35461/8022011502/123456/591
+#EXTINF: -1 tvg-id="MY: AL-HIJRAH" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png" group-title="LIVE | NEWS", TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/109789/109789/6834
+#EXTINF: -1 tvg-id="MY: TVB NEWS" tvg-logo="http://tvmalaysia.cc:80/images/959ef0799d7e2feb2e9b6eac17d47472.png" group-title="LIVE | NEWS", TVB E-News
+http://iptv.tvmalaysia.cc:80/109789/109789/6840
+#EXTINF: -1 tvg-name="TVB E-News" tvg-logo="https://itsmiyagi.site:443/images/1aaf16f8a5c39a88226c178c333abbe3.png" group-title="LIVE | NEWS", TVB E-News
+http://iptv12k.com:35461/8022011502/123456/697
+#EXTINF: -1 tvg-name="ASTRO Hello" tvg-logo="https://itsmiyagi.site:443/images/5095d8eeda2df7f844132b44eb4b2f77.png" group-title="LIVE | EDUCATION", ASTRO Hello
+http://iptv12k.com:35461/8022011502/123456/719
+#EXTINF: -1 tvg-name="ASTRO Tutor TV PT3" tvg-logo="https://itsmiyagi.site:443/images/c8937b8237f21a76a5c7517f2dbdcac0.png" group-title="LIVE | EDUCATION", ASTRO Tutor TV PT3
+http://iptv12k.com:35461/8022011502/123456/718
+#EXTINF: -1 tvg-name="ASTRO Tutor TV SPM" tvg-logo="https://itsmiyagi.site:443/images/9abf6c750a8eb15b80f1bb856e464c63.png" group-title="LIVE | EDUCATION", ASTRO Tutor TV SPM
+http://iptv12k.com:35461/8022011502/123456/716
+#EXTINF: -1 tvg-name="ASTRO Tutor TV UPSR" tvg-logo="https://itsmiyagi.site:443/images/5b66793a1f45c0b7344261c808de1e7f.png" group-title="LIVE | EDUCATION", ASTRO Tutor TV UPSR
+http://iptv12k.com:35461/8022011502/123456/717
+#EXTINF: -1 tvg-id="ntv7.my" group-title="LIVE | EDUCATION", Didik TV (NTV 7)
+http://iptv.tvmalaysia.cc:80/109789/109789/8922
+#EXTINF: -1 tvg-name="MY: ASTRO GO Shop Gaaya" tvg-logo="https://pbs.twimg.com/profile_images/560641520110301184/d8ShmTp5_200x200.png" group-title="LIVE | GO SHOP", MY: ASTRO GO Shop Gaaya
+http://iptv12k.com:35461/8022011502/123456/3749
+#EXTINF: -1 tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="LIVE | MUSIC", MTV Live
+http://iptv12k.com:35461/8022011502/123456/586
+#EXTINF: -1 tvg-name="[ID] NHK World Premium" tvg-logo="https://i.loli.net/2021/10/04/LRH3y9i18zdCo7v.png" group-title="LIVE | JAPAN", [ID] NHK World Premium
+http://iptv12k.com:35461/8022011502/123456/585
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg" group-title="VOD", Ghostbusters : Afterlife (2021)
+https://www1.xpeer.xyz/hls/ghostbusters-afterlife-2021/playlist_480.m3u8
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVjYThmNDAtOTE1NC00YjQ2LTk4NWYtNTc4Yzc4OTRhYjllXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",Marvel's Eternals IMAX Enhanced (2021) FHD" group-title="VOD", Marvels:Eternals (2021)
+https://onedrive.astradamy.com/api?path=/Movies/Marvel's.Eternals.2021/Eternals.2021.IMAX.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-TEPES.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="VOD", Marvels : Spider-Man No Way Home (2021)
+https://www1.xpeer.xyz/hls/spider-man-no-way-home-2021/playlist_480.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Harry_Potter_wordmark.svg" group-title="VOD", Harry Potter - Return To Hogwarts (2022)
+https://www1.xpeer.xyz/hls/harry-potter-20th-anniversary-return-to-hogwarts-2022/playlist_480.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Welcome_to_Raccoon_City.jpg" group-title="VOD", Resident Evil - Welcome To Raccon City (2021)
+https://www1.xpeer.xyz/hls/resident-evil-welcome-to-raccoon-city-2021/playlist_480.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Venom_Let_There_Be_Carnage_poster.jpg" group-title="VOD", Marvels : Venom - Let There Be Carnage (2021)
+https://www1.xpeer.xyz/hls/venom-let-there-be-carnage-2021/playlist_480.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Matrix_4_Logo.png" tvg-logo-small="https://en.wikipedia.org/wiki/The_Matrix_Resurrections#/media/File:The_Matrix_Resurrections.jpg" group-title="VOD", Matrix : Resurrections (2021)
+https://www1.xpeer.xyz/hls/the-matrix-resurrections-2021/playlist_480.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/No_Time_to_Die.svg" group-title="VOD", No.Time.to.Die.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Red_Notice_-_film_promotional_image.jpg" group-title="VOD", Red.Notice.2021.
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Red.Notice.2021.1080p.WEB-DL.x264.AAC5.1.Sub.MS.ENG.IND-PENCURiMOViE.CYOU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dune_2021_logo.png" group-title="VOD", Dune.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Dune.2021.1080p.WEB-DL.5.1CH-en.id-PENCURiMOViE.CYOU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg" group-title="VOD", The.Suicide.Squad.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/The.Suicide.Squad.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg" group-title="VOD", Black.Widow.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Black.Widow.2021/Black.Widow.2021.1080p.BluRay.x264.AAC5.1.SUB.MS.ENG.IND-PENCURiMOViE.CYOU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg" group-title="VOD", Shang.Chi.
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BrRip-ms.en-PENCURiMOViE.CYOU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/F9_film_poster.jpg" group-title="VOD", F9
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Fast.and.Furious.F9.The.Fast.Saga.2021/F9.The.Fast.Sage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUzYTE3NTItZTAzNy00ZDA1LWFiYjUtMGRiMmY3NDYyNTRjXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg" group-title="VOD", Makmum
+https://onedrive.astradamy.com/api?path=/Movies/Makmum.2019.1080p.WEB-DL.PENCURiMOViE.iCU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://aqfad.netlify.app/images/SiapaTutupLampu.png" group-title="VOD", Siapa.Tutup.Lampu.2021
+https://onedrive-aqfadtv.vercel.app/api?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Home_Sweet_Home_Alone_Poster.jpg" group-title="VOD", Home.Sweet.Home.Alone.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Home.Sweet.Home.Alone.2021/Home.Sweet.Home.Alone.2021.1080p.WEBRip.x264-RARBG.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Free_Guy_2021_Poster.jpg" group-title="VOD", Free.Guy.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Free.Guy.2021.1080p.BluRay.x264.AAC5.1.SUB.MS.ENG.IND-PENCURiMOViE.CYOU.mkv&raw=true
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Jungle_Cruise_-_theatrical_poster.png" group-title="VOD", Jungle.Cruise.2021
+https://onedrive-danielmy.vercel.app/api?path=/Movies/Jungle.Cruise.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true
+
+
+
 
 
