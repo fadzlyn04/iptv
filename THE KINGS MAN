@@ -1,8 +1,8 @@
 #EXTM3U
 
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO",C-19 Latest Info Entire World
-https://tinyurl.com/mvazwypc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="WELCOME TO FAZLY CHANNEL",- Last Update: xx,xx,2022
+#EXTINF:-1 tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak",- Last Update: xx,xx,2022
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
