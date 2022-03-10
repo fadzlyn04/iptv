@@ -740,7 +740,6 @@ https://www.googleapis.com/drive/v3/files/1o768e6JaoMmWutJOs2pEH1-JhikUWkZE?alt=
 https://www.googleapis.com/drive/v3/files/1fltM-KF2motcguLmbdJjR8lnKTK04UOF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Arcane",Eps 9
 https://www.googleapis.com/drive/v3/files/1zL77Nrb2zVPGB9H_y0gmb0I-b6qM2FZ0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 group-title="Cowboy Bebop",Eps 1
 https://www.googleapis.com/drive/v3/files/1SvyWi2nuJZ1vt38KzsXIsMQIGA7WfUNE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Cowboy Bebop",Eps 2
@@ -760,9 +759,7 @@ https://www.googleapis.com/drive/v3/files/1BlU7yIIK1uT7XPO5ue0QrWICNd1bkrUs?alt=
 #EXTINF:-1 group-title="Cowboy Bebop",Eps 9
 https://www.googleapis.com/drive/v3/files/1UBztqZCdYRFBDTqgZcjGeNfOC3aureSi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Cowboy Bebop",Eps 10
-https://www.googleapis.com/drive/v3/files/1HnpIhj2lycQOl9JRIDGkS5z8ZxlyXvq0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-//Dota: Dragon’s Blood
+https://www.googleapis.com/drive/v3/files/1HnpIhj2lycQOl9JRIDGkS5z8ZxlyXvq0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4//Dota: Dragon’s Blood
 #EXTINF:-1 group-title="Dota: Dragon’s Blood",Eps 1
 https://www.googleapis.com/drive/v3/files/11SytCTDopmqoSFLotfrJTFej6Mmv48Sc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Dota: Dragon’s Blood",Eps 2
@@ -1284,8 +1281,6 @@ https://www.googleapis.com/drive/v3/files/1MSI7ZLgK0hAH7FQiqbTugjSRkqaYbJoz?alt=
 #EXTINF:-1 group-title="Y: The Last Man",Eps 10
 https://www.googleapis.com/drive/v3/files/1Pn1yKkXctFEzkHQLwJFZuGjGtGmwFeVB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-
-#EXTM3U
 #EXTINF:-1 ,Spider-man : No Way Home 2021
 https://flixbd.xyz/links/cvtprtmsmo/
 #EXTINF:-1 ,Spider-Man  (2002)
@@ -1582,7 +1577,6 @@ http://grets.co21.net:2082/movie/Taoufik_145943/3yeD3C46/53949.mkv
 http://grets.co21.net:2082/movie/Taoufik_145943/3yeD3C46/53948.mkv
 #EXTINF:-1 ,Harry Potter and the Chamber of Secrets
 http://grets.co21.net:2082/movie/Taoufik_145943/3yeD3C46/53947.mkv
-#EXTM3U
 #EXTINF:0,//Ant-Man
 #EXTVLCOPT:network-caching=1000
 https://Ant-Man
@@ -5191,8 +5185,6 @@ http://vpro.viptvclub.com:25443/movie/V59Ssbxk605P/S8r5cjP9Ym/102602.mkv
 #EXTINF:-1 group-title="VOD FR ACTION - DRAME - THRILLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWWtStXei0hjNElbtM0J28trLcO.jpg",L'Homme au pistolet d'or - 1974
 http://vpro.viptvclub.com:25443/movie/V59Ssbxk605P/S8r5cjP9Ym/102603.mkv
 
-
-#EXTM3U
 #EXTINF:-1 group-title="VOD FR ANIMATION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0OsFVU73x2xhbOYSp2Rfzxywn6.jpg",Fantasia - 1940
 http://vpro.viptvclub.com:25443/movie/V59Ssbxk605P/S8r5cjP9Ym/46027.avi
 #EXTINF:-1 group-title="VOD FR ANIMATION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOZ6ugXY2dblyhGsuizkbL03m83.jpg",Le Roi lion 3 : Hakuna matata -
