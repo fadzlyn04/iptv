@@ -7,8 +7,9 @@ url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="14
 url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO",C-19 Latest Info Entire World
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="IMPORTANT",FREE TV NOT FOR SALE Fazly Kacak
+#EXTINF:-1 tvg-id="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak
 https://www.youtube.com/watch?v=RFimmzu8nTw
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
