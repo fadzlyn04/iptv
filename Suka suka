@@ -91,6 +91,9 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 #EXTINF:-1 tvg-id="149" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA" tvg-logo="https://iili.io/1NTga4.jpg",RTM SUKAN HD
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
 #EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA",TV ALHIJRAH
@@ -107,10 +110,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1 tvg-id="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA",AWESOME TV
 http://iptv12k.com:35461/live/8022011502/123456/743.ts
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+
+
+
+
+ASTRO
 
 
 
@@ -146,19 +153,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+INDONESIA
 
 
 
@@ -228,6 +223,7 @@ https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 
 
+KOREA
 
 
 
@@ -263,10 +259,26 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 
 
+JAPAN
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="WELCOME TO FAZLY CHANNEL JAPAN",NHK WORLD PREMIUM
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+
+
+
+
+MOVIE
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
@@ -392,6 +404,16 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-id="416" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="WELCOME TO FAZLY CHANNEL MOVIE",TVN MOVIES
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
+
+
+
+
+VARIETY
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
 #EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="WELCOME TO FAZLY CHANNEL VARIETY",AXN
@@ -453,6 +475,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="WELCOME TO FAZLY CHANNEL VARIETY",MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
+
+
+
+
+
+
+
+
+LIFESTYLE
+
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b0e855d7fb11721129c13d4c1b645e10&key=2ddd4b255921d5c2a331e5f10f302be0
 #EXTINF:-1 tvg-id="709" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="WELCOME TO FAZLY CHANNEL LIFESTYLE",ASIAN FOOD NETWORK
@@ -496,6 +536,20 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 #EXTINF:-1 tvg-id="556" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="WELCOME TO FAZLY CHANNEL KNOWLEDGE",ANIMAL PLANET
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
+
+
+
+
+
+
+KNOWLEDGE
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8b132be22fca4d1538e2cfa009f08a10&key=d0a2208f3d5a556f831ad4de9fe7e31c
 #EXTINF:-1 tvg-id="554" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="WELCOME TO FAZLY CHANNEL KNOWLEDGE",BBC EARTH
@@ -538,7 +592,19 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 
 
-News
+
+
+
+
+
+
+NEWS
+
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
@@ -600,7 +666,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 
 
 
-Kids
+
+
+
+
+
+KIDS
+
+
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -633,7 +709,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 
 
-Sport
+
+
+
+
+SPORT
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
@@ -730,7 +815,17 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
 
+
+
+
+
+
 CHINESE
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="GoShop2" ch-number="303" group-title="WELCOME TO FAZLY CHANNEL CHINESE" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",Go Shop 2
@@ -835,10 +930,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 
+
+
+
+
+
 BACKUP
 
 
-Backup
+
+
+
 
 #EXTINF:-1 group-title="WELCOME TO FAZLY CHANNEL MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria ALT sd
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
