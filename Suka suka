@@ -256,6 +256,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 #EXTINF:-1 tvg-id="395" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="WELCOME TO FAZLY CHANNEL KOREA",TVN
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.ibb.co/x32jQz5/Arirang-1.png" group-title="WELCOME TO FAZLY CHANNEL KOREA",ARIRANG
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+
 
 
 
@@ -268,6 +274,17 @@ JAPAN
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="WELCOME TO FAZLY CHANNEL JAPAN",NHK WORLD PREMIUM
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="WELCOME TO FAZLY CHANNEL JAPAN",NHK WORLD JAPAN
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTINF:-1 group-title="WELCOME TO FAZLY CHANNEL JAPAN" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/wakuwaku-japan.png", WakuWaku Japan
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+
 
 
 
