@@ -59,6 +59,11 @@ http://linears-playback.astro.com.my/vsg/21O83w12lpQXV85H7tUOO_D4uMp_0BJtauSCWYA
 #EXTINF:-1g-id="202" ch-number="AstroVinmeenHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA",202 Astro Vinmeen  
 https://linears-playback.astro.com.my/vsg/21O83w12lpQXV85H7tUOO_D4uMp_0BJtauSCWYAaYRNrw=puqS/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50f975bfac7d0c485fa36d54d2bba610:db4f4d75ac6d065e0fa1c0b6400251ab
+#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai HD" group-title="WELCOME TO FAZLY CHANNEL CHINESE" tvg-logo="https://iili.io/1NB4Xj.png",Astro Hua Hee Dai HD CH333
+https://linears-playback.astro.com.my/vsg/21uRsll1l3HycZyhhRKd2NEYunyzj2Jnxj8ff5ZEpKWZk=9g8x/dash-wv/jitp-linearwm/2308/default_ott.mpd
+
 
 TOKEN KEY Stop
 
