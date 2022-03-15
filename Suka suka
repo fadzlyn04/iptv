@@ -13,6 +13,7 @@ url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refre
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO",C-19 Latest Info Entire World
+https://tinyurl.com/mvazwypc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak 
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
