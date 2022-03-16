@@ -1067,19 +1067,19 @@ BACKUP
 
 
 
-#EXTINF:-1 group-title="WELCOME TO FAZLY CHANNEL MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria ALT sd
+#EXTINF:-1 group-title="WELCOME TO FAZLY CHANNEL MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria (backup)
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/47ef5b4z
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/2n7nve7k
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna sd
+#EXTINF:-1 tvg-id="AstroWarna" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna (backup)
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/cdddk2p3
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://tinyurl.com/2p84vdkx
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra sd 
+#EXTINF:-1 tvg-id="AstroCitra" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra (backup)
 https://tinyurl.com/mv4sd4t8
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 http://much02.cularu.com:8880/streaming/clients_live.php?extension=ts&username=dyw12m3n4983&password=x2V52z9P7K&stream=71146
