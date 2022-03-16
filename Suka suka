@@ -136,6 +136,9 @@ https://link.zozotv.xyz:443/live/dayah/dayah/352.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="WELCOME TO FAZLY CHANNEL MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="IKIM" group-title="MALAYSIA" tvg-logo="https://iili.io/1NTfv2.png",TV IKIM HD
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
 
 
 
