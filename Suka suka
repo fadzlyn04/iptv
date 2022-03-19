@@ -12,7 +12,7 @@ url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refre
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO VOD - kampung pisang berbuah 2 kali , 2 new channel movies & 7 new channel kids", S H O W T I M E S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO VOD - kampung pisang berbuah 2 kali", S H O W T I M E S
 https://bit.ly/3wcz0UB
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV NOT FOR SALE Fazly Kacak 
@@ -239,6 +239,12 @@ https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF: -1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="WELCOME TO FAZLY CHANNEL INDONESIA", TRANS 7
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6WF08FV.png" group-title="WELCOME TO FAZLY CHANNEL INDONESIA",Citra Dangdut
+http://51.79.251.57:2082/malik/malik/1576
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k2U3OLr.png" group-title="WELCOME TO FAZLY CHANNEL INDONESIA",Citra Drama
+http://51.79.251.57:2082/malik/malik/1577
+
 
 
 
@@ -301,6 +307,12 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="WELCOME TO FAZLY CHANNEL JAPAN",NHK WORLD JAPAN
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="WELCOME TO FAZLY CHANNEL JAPAN",Tokyo MX1 
+http://51.79.251.57:2082/malik/malik/1653
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="WELCOME TO FAZLY CHANNEL JAPAN",Tokyo MX2 
+http://51.79.251.57:2082/malik/malik/1657
 
 
 
