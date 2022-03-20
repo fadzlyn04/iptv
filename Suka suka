@@ -12,8 +12,8 @@ url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refre
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO VOD - kampung pisang berbuah 2 kali", S H O W T I M E S
-https://bit.ly/3wcz0UB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO VOD - HANTU MOK JOH", S H O W T I M E S
+https://bit.ly/3KSGqRk
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/FreeTv_Egypt_Logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV ====NOT FOR SALe====Fazly Channel
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
