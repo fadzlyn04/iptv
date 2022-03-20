@@ -453,9 +453,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="WELCOME TO FAZLY CHANNEL MOVIE",MOVIES NOW
 http://live.flixhub.net/hls/movies-now.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg" group-title="WELCOME TO FAZLY CHANNEL MOVIE",MN+
-http://live.flixhub.net/hls/mn+.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="WELCOME TO FAZLY CHANNEL MOVIE",MNX
 http://live.flixhub.net/hls/mnx-hd.m3u8
 
