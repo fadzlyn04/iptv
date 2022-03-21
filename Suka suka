@@ -456,11 +456,6 @@ http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="WELCOME TO FAZLY CHANNEL MOVIE",MNX
 http://live.flixhub.net/hls/mnx-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="Live | Movie" Flix test
-http://103.141.66.36/bpk-tv/10304/default/manifest.mpd
-
-
-
 
 
 
