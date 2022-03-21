@@ -447,9 +447,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="WELCOME TO FAZLY CHANNEL MOVIE",&FLIX
 https://link.zozotv.xyz:443/live/dayah/dayah/104.ts
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2018/09/Flixbus_Logo_green_background.png" group-title="WELCOME TO FAZLY CHANNEL MOVIE",FLIXBUS
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="WELCOME TO FAZLY CHANNEL MOVIE",MOVIES NOW
 http://live.flixhub.net/hls/movies-now.m3u8
 
