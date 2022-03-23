@@ -15,7 +15,7 @@ url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refre
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO VOD - HANTU MOK JOH", S H O W T I M E S
 https://bit.ly/3KSGqRk
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://fazly.freevar.com/picture/Fz%20Tv.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV ====NOT FOR SALe====Fazly Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://fazly.freevar.com/picture/logo.png" group-title="WELCOME TO FAZLY CHANNEL",FREE TV ====NOT FOR SALe====Fazly Channel
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
                                                          TOKEN
