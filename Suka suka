@@ -139,7 +139,7 @@ http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&t
 # https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2" group-title="MYFREEVIEW" ch-number="102" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
+#EXTINF:-1 tvg-id="TV2" group-title="MYFREEVIEW" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png",102 TV2
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 # https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
