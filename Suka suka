@@ -177,8 +177,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title=" MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",123 Awesome TV
 #EXTVLCOPT:http-referrer=http://www.astro.com.my 
-#https://tinyurl.com/5bs9htt9
-http://51.79.251.57:2082/malik/malik/16
+http://iptv.tvmalaysia.cc:80/104369/104369/9016
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="MYFREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
