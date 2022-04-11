@@ -115,7 +115,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO",C-19 Latest Info Entire World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/tx2BRDm/covid-19-4855688-640.png" group-title="INFO Selamat berpuasa & menjalankan ibadah di bulan yang mulia ini",C-19 Latest Info Entire World
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
