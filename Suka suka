@@ -277,7 +277,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MYFREEVIEW",114 TV AlHijrah HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ecfe9297-7c2d-4ee3-b6ad-a398094cca50
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="MYFREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",113 TV6
 # https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
@@ -6076,16 +6078,6 @@ http://iptv12k.com:35461/series/8022022301/468985/6038.mp4
 #EXTINF:-1 tvg-logo="https://iluminasi.com/img/thumb/banner-info-dan-sinopsis-drama-berepisod-sihir.jpg" group-title="MALAYSIA",Srikandi Emma Nadia Khan S01E20 
 http://iptv12k.com:35461/series/8022022301/468985/6039.mp4
 #EXTINF:-1,
-
-#EXTINF:-1 group-title="KisasianTest",100 Days with Mr. Arrogant
-https://s1.openstream.io/hls/qvsbdup2nxblgwsztrh2a74el2426zwb3hfaxz5ewozg25wff7aua6hrepua/master.m3u8
-#EXTINF:-1 group-title="KisasianTest",23:59 (2011)
-https://s16.openstream.io/hls/qvsbd5kjmdblgwsztrw2ayobbz6g4h6xhd7qxzhbvpn7lu7uday2zyveqbeq/master.m3u8
-#EXTINF:-1 group-title="KisasianTest",Avataro Sentai Donbrothers (2022) 001
-https://o11.openstream.io/hls/qvsbgf4bmpblgwsztspkay6el3qeyj3os5uhcgtkzyl3pdvmlpqxfwcc43wq/master.m3u8
-#EXTINF:-1 group-title="KisasianTest",Avataro Sentai Donbrothers (2022) 002
-https://s37.openstream.io/hls/qvsbfumampblgwsztspka363i3kjkzmtqrngpntlig74qftrei4qsdhrdtpa/master.m3u8
-
 
 
 
