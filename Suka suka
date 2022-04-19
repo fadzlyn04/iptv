@@ -1384,6 +1384,21 @@ http://210.210.129.106/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/6a4670d01e328b6ca20cf1a7a3aeb773.png" group-title="MOVIES",MY FAMILY CHANNEL
 http://210.210.129.106/uq2663/h/h194/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="MOVIES",  beIN Movies HD 1 Premiere
+http://vt.vttpi.com:8000/live/P-957977/P-740465/158.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="MOVIES",  beIN Movies HD 2 Action
+http://vt.vttpi.com:8000/live/P-957977/P-740465/159.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="MOVIES",  beIN Movies HD 3 Drama
+http://vt.vttpi.com:8000/live/P-957977/P-740465/160.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="MOVIES",  beIN Movies HD 4 Family
+http://vt.vttpi.com:8000/live/P-957977/P-740465/161.ts
+
+#EXTINF:-1 tvg-logo="https://logolook.net/wp-content/uploads/2021/12/Bflix-Logo.png" group-title="MOVIES", Bflix MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
 
 
 
