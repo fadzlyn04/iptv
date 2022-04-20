@@ -1165,8 +1165,9 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="MYFREEVIEW" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 # https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-
+# https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+http://axcestv.vip:8080/freeview/axcestv/624
+ 
 #EXTINF:-1 tvg-id="105" group-title="MYFREEVIEW" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg",105 Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
 
