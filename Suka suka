@@ -3608,43 +3608,69 @@ http://139.99.56.106:2082/sakinah1/sakinah1/12861
 
 
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First - Hantu Ke Lima
-http://axcestv.vip:8080/freeview/axcestv/690
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First - Kedai Antik Wak Jambi
-http://axcestv.vip:8080/freeview/axcestv/980
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First - Siapa Tutup Lampu?
-http://axcestv.vip:8080/freeview/axcestv/689
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First -Penunggang Agama 2
-http://axcestv.vip:8080/freeview/axcestv/691
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Jaga-Jaga Senariounion
-http://axcestv.vip:8080/live/freeview/axcestv/989.ts
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Hantu Kuat Ketawa
-http://axcestv.vip:8080/freeview/axcestv/685
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Hantu Mok Joh
-http://axcestv.vip:8080/freeview/axcestv/686
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Kg Pisang Berbuah Dua Kali
-http://axcestv.vip:8080/freeview/axcestv/684
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Marabahaya Underground
-http://axcestv.vip:8080/freeview/axcestv/687
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Serangan Pocong
-http://axcestv.vip:8080/freeview/axcestv/688
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Autumn In Wales
-http://axcestv.vip:8080/freeview/axcestv/979
+http://axcestv.vip:8080/freeview/axcestv/486
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Gila Gusti
+http://axcestv.vip:8080/freeview/axcestv/488
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Renjana
+http://axcestv.vip:8080/freeview/axcestv/490
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Autumn In Wales
+http://axcestv.vip:8080/freeview/axcestv/489
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Kedai Antik Wak Jambi" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Kedai Antik Wak Jambi
+http://axcestv.vip:8080/freeview/axcestv/492
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Kg Pisang Berbuah Dua Kali
+http://axcestv.vip:8080/freeview/axcestv/493
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Hantu Kuat Ketawa
+http://axcestv.vip:8080/freeview/axcestv/494
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Hantu Mok Joh
+http://axcestv.vip:8080/freeview/axcestv/495
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Marabahaya Underground
+http://axcestv.vip:8080/freeview/axcestv/496
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Serangan Pocong
+http://axcestv.vip:8080/freeview/axcestv/497
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Siapa Tutup Lampu?
+http://axcestv.vip:8080/freeview/axcestv/498
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Hantu Ke Lima
+http://axcestv.vip:8080/freeview/axcestv/499
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="Astro First",The Disappearance of Irdina Adhwa
+http://axcestv.vip:8080/freeview/axcestv/487
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro First -Kabus" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Kabus
+http://axcestv.vip:8080/freeview/axcestv/491
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Gila Gusti
 https://link.zozotv.xyz:443/fx2/fx2/562
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First-  Renjana
 https://link.zozotv.xyz:443/fx2/fx2/557
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Kabus
 https://link.zozotv.xyz:443/fx2/fx2/554
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First-  The Disappearance of Irdina Adhwa
 https://link.zozotv.xyz:443/fx2/fx2/564
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First-  Belaban Hidup
 https://link.zozotv.xyz:443/fx2/fx2/377
 
 #EXTINF:-1 tvg-id="" tvg-name="EN:10x10" tvg-logo="http://mu01e.okcomputer.club:8880/images/egMETBYual2JtfFGigXTA0tGkME_small.jpg" group-title="ENGLISH VOD",EN:10x10
 http://95.214.235.96:8880/movie/SWFAF143575/VD6UF9EX/39354.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="EN:12 Strong" tvg-logo="http://mu01e.okcomputer.club:8880/images/j18021qCeRi3yUBtqd2UFj1c0RQ_small.jpg" group-title="ENGLISH VOD",EN:12 Strong
 http://95.214.235.96:8880/movie/SWFAF143575/VD6UF9EX/39355.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="EN:13 Demons" tvg-logo="http://mu01e.okcomputer.club:8880/images/mMyl0qca67rZH7iLE1p0tigdds1_small.jpg" group-title="ENGLISH VOD",EN:13 Demons
 http://95.214.235.96:8880/movie/SWFAF143575/VD6UF9EX/39356.avi
 #EXTINF:-1 tvg-id="" tvg-name="EN:2036 Origin Unknown" tvg-logo="http://mu01e.okcomputer.club:8880/images/v3StJTYXbU3OZ26Vh1PbczqfyCD_small.jpg" group-title="ENGLISH VOD",EN:2036 Origin Unknown
