@@ -1554,7 +1554,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #https://linears-playback.astro.com.my/vsg/41V1tuby9aI8xK_VjN6T8TiuSx0GWFekMjIGLDx7_8a6A=jacu/dash-wv/jitp-linearwm/1004/default_primary.mpd
-http://axcestv.vip:8080/freeview/axcestv/646
+http://axcestv.vip:8080/freeview/axcestv/454
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
@@ -1574,7 +1574,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802202
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkfSzGHagDIo1fdnH0gRNdU=0fMS/dash-wv/jitp-linearwm/2402/default_primary.mpd
-http://axcestv.vip:8080/freeview/axcestv/648
+http://axcestv.vip:8080/freeview/axcestv/456
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
@@ -1593,7 +1593,7 @@ http://iptv12k.com:35461/80201033004/324542/733
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hi1k4cBE0bjsDm54IZjHRyQ=2tHC/dash-wv/jitp-linearwm/2700/default_primary.mpd
-http://axcestv.vip:8080/freeview/axcestv/651
+http://axcestv.vip:8080/freeview/axcestv/459
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
@@ -1987,7 +1987,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",811 Astro SuperSport HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-http://axcestv.vip:8080/freeview/axcestv/787
+http://axcestv.vip:8080/freeview/axcestv/594
 #https://linears-playback.astro.com.my/vsg/41CtIFLbClVZKsX8S-kQPzaLz-ov7WWVOOkfzcn2BE_2M=97Df/dash-wv/jitp-linearwm/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup
@@ -2004,7 +2004,7 @@ http://iptv12k.com:35461/80201033004/324542/656
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #http://203.154.243.89:21202/nakhon
 #https://linears-playback.astro.com.my/vsg/412CMfoMlkvhFwlfS3loHUpExXjexarqCBSJTZ9LrKRBk=y8xW/dash-wv/jitp-linearwm/2104/default_primary.mpd
-http://axcestv.vip:8080/freeview/axcestv/789
+http://axcestv.vip:8080/freeview/axcestv/596
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup
 http://203.154.243.89:21202/nakhon
@@ -2020,7 +2020,7 @@ http://iptv12k.com:35461/80201033004/324542/655
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #http://203.154.243.89:21203/nakhon
 #https://linears-playback.astro.com.my/vsg/41B3VzQs9ffkWXX0MHOxms7s2EAhL0Fl0GpL32OwyUWvY=6ckC/dash-wv/jitp-linearwm/2701/default_primary.mpd
-http://axcestv.vip:8080/freeview/axcestv/790
+http://axcestv.vip:8080/freeview/axcestv/598
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup
 http://203.154.243.89:21203/nakhon
@@ -2036,7 +2036,7 @@ http://iptv12k.com:35461/80201033004/324542/654
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 #http://203.154.243.89:21204/nakhon
 #https://linears-playback.astro.com.my/vsg/41x2EmXlcpk9lrZCnNrNC6FXKm3Qm1_Quh4fVvby_386I=UO5D/dash-wv/jitp-linearwm/2506/default_primary.mpd
-http://axcestv.vip:8080/freeview/axcestv/791
+http://axcestv.vip:8080/freeview/axcestv/600
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup
 http://203.154.243.89:21204/nakhon
