@@ -1562,13 +1562,7 @@ http://axcestv.vip:8080/freeview/axcestv/454
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/1004/default_ott.mpd
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1705
-http://139.99.56.106:2082/sakinah1/sakinah1/8444
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/104.png" group-title="ASTRO", CH104 Astro Ria (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/1705
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/104.png" group-title="ASTRO", CH104 Astro Ria (Backup 2)
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
+# http://139.99.56.106:2082/sakinah1/sakinah1/8444
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",107 Astro Warna 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1583,12 +1577,6 @@ http://axcestv.vip:8080/freeview/axcestv/456
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1706
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="ASTRO", CH107 Astro Warna (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/1706
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="ASTRO", CH107 Astro Warna (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/733
-
 #EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",108 Astro Citra 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
@@ -1601,13 +1589,7 @@ http://axcestv.vip:8080/freeview/axcestv/459
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2700/default_ott.mpd
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m09682579275017751642&ct=18379&tsum=732e3cc7f6a900ad8e7ac08fcac88c20
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/71146
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO", CH108 Astro Citra (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/71146
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO", CH108 Astro Citra (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/721
-                                                              
+                                                            
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" ch-number="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",105 Astro Prima AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -1907,12 +1889,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #https://linears-playback.astro.com.my/vsg/41W3SeBBIP5xSw7-S6ZAZZTphHFenwKv0LaNtOGPNRwVA=LAEN/dash-wv/jitp-linearwm/2105/default_primary.mpd
 http://axcestv.vip:8080/live/freeview/axcestv/779.ts
 
-#EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="INDIA", Astro Vinmeen HD (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/71033
-
-#EXTINF:-1 tvg-id="AstroVinmeenHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="INDIA", Astro Vinmeen HD (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/675
-
 #EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
@@ -1992,12 +1968,6 @@ http://axcestv.vip:8080/freeview/axcestv/594
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup
 http://203.154.243.89:21201/nakhon
 
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="SPORTS", Astro SuperSport HD (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/1722
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="SPORTS", Astro SuperSport HD (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/656
-
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport 2 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
@@ -2007,12 +1977,6 @@ http://axcestv.vip:8080/freeview/axcestv/596
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup
 http://203.154.243.89:21202/nakhon
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", Astro SuperSport 2 HD (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/1721
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="SPORTS", Astro SuperSport 2 HD (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/655
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2024,12 +1988,6 @@ http://axcestv.vip:8080/freeview/axcestv/598
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup
 http://203.154.243.89:21203/nakhon
 
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", Astro SuperSport 3 HD (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/1720
-
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="SPORTS", Astro SuperSport 3 HD (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/654
-
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
@@ -2039,12 +1997,6 @@ http://axcestv.vip:8080/freeview/axcestv/600
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup
 http://203.154.243.89:21204/nakhon
-
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", CH814 Astro SuperSport 4 HD (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/1719
-
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png" group-title="SPORTS", CH814 Astro SuperSport 4 HD (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/653
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2325,24 +2277,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/904/default_primary.mpd
 # https://linears-playback.astro.com.my/vsg/416zsyC3wLrkh_O0DHufQ-YVPW5UJaDsG57kj68qn_nYw=ijhc/dash-wv/jitp-linearwm/2400/default_primary.mpd
 http://acc2.aatvbox.club:8880/trmall/trmall0308/1723
 
-#EXTINF:-1 tvg-id="AstroAEC" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png" group-title="CHINA", CH306 Astro AEC (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/1723
-
-#EXTINF:-1 tvg-id="AstroAEC" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png" group-title="CHINA", CH306 Astro AEC (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/709
-
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="CHINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=50f975bfac7d0c485fa36d54d2bba610&key=db4f4d75ac6d065e0fa1c0b6400251ab
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 # https://linears-playback.astro.com.my/vsg/41AEH-P9VtP9-3j98_tM1o2GvlfBzNQjuzhuwdRG9ezqA=M2Vf/dash-wv/jitp-linearwm/2308/default_primary.mpd
 http://axcestv.vip:8080/live/freeview/axcestv/670.ts 
-
-#EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="CHINA", CH333 Astro Hua Hee Dai (Backup 1)
-http://acc2.aatvbox.club:8880/trmall/trmall0308/1725
-
-#EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="CHINA", CH333 Astro Hua Hee Dai (Backup 2)
-http://iptv12k.com:35461/80201033004/324542/707
 
 #EXTINF:-1 tvg-id="iQIYI" ch-number="300" group-title="CHINA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
