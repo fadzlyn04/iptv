@@ -2792,12 +2792,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
                                                                                                                     
                                                             
                                                               ASTRO
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria backup 2
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 https://tv.kpsvpn.com/ria.mpd
                                                                                                                             
-#EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",104 Astro Ria 
+#EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",104 Astro Ria backup 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #https://linears-playback.astro.com.my/vsg/41V1tuby9aI8xK_VjN6T8TiuSx0GWFekMjIGLDx7_8a6A=jacu/dash-wv/jitp-linearwm/1004/default_primary.mpd
@@ -2811,12 +2811,12 @@ http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsu
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1705
 # http://139.99.56.106:2082/sakinah1/sakinah1/8444
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna backup
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 https://tv.kpsvpn.com/warna.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",107 Astro Warna 
+#EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",107 Astro Warna backup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkfSzGHagDIo1fdnH0gRNdU=0fMS/dash-wv/jitp-linearwm/2402/default_primary.mpd
@@ -2829,12 +2829,12 @@ http://axcestv.vip:8080/freeview/axcestv/456
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m03929078146113960019&ct=18379&tsum=9eebc9c505beec9da52731f68f99090e
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1706
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra backup
+#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 https://tv.kpsvpn.com/citra.mpd
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",108 Astro Citra 
+#EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",108 Astro Citra backup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hi1k4cBE0bjsDm54IZjHRyQ=2tHC/dash-wv/jitp-linearwm/2700/default_primary.mpd
@@ -3140,7 +3140,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD 
+#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #https://linears-playback.astro.com.my/vsg/41W3SeBBIP5xSw7-S6ZAZZTphHFenwKv0LaNtOGPNRwVA=LAEN/dash-wv/jitp-linearwm/2105/default_primary.mpd
@@ -5060,19 +5060,19 @@ https://link.zozotv.xyz:443/series/1234/1234/417.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKeQbHeEUQLyoSdopa0QXm604cz.jpg" group-title="Mixed",Squid Game S01 E09
 https://link.zozotv.xyz:443/series/1234/1234/418.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2Jacy8CLN2E/hqdefault.jpg" group-title="VOD Live",VOD-Malay
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Malay
 http://139.99.56.106:2082/sakinah1/sakinah1/12849
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2Jacy8CLN2E/hqdefault.jpg" group-title="VOD Live",VOD-Action
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Action
 http://139.99.56.106:2082/sakinah1/sakinah1/12159
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2Jacy8CLN2E/hqdefault.jpg" group-title="VOD Live",VOD-Horror
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Horror
 http://139.99.56.106:2082/sakinah1/sakinah1/12984
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2Jacy8CLN2E/hqdefault.jpg" group-title="VOD Live",VOD-Hindi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Hindi
 http://139.99.56.106:2082/sakinah1/sakinah1/12869
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2Jacy8CLN2E/hqdefault.jpg" group-title="VOD Live",VOD-Tamil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Tamil
 http://139.99.56.106:2082/sakinah1/sakinah1/12861
 
 
@@ -5113,26 +5113,12 @@ http://axcestv.vip:8080/freeview/axcestv/498
 #EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Hantu Ke Lima
 http://axcestv.vip:8080/freeview/axcestv/499
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="Astro First",The Disappearance of Irdina Adhwa
+#EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",The Disappearance of Irdina Adhwa
 http://axcestv.vip:8080/freeview/axcestv/487
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro First -Kabus" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/443230.png" group-title="Astro First",Kabus
 http://axcestv.vip:8080/freeview/axcestv/491
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Gila Gusti
-https://link.zozotv.xyz:443/fx2/fx2/562
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First-  Renjana
-https://link.zozotv.xyz:443/fx2/fx2/557
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Kabus
-https://link.zozotv.xyz:443/fx2/fx2/554
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First-  The Disappearance of Irdina Adhwa
-https://link.zozotv.xyz:443/fx2/fx2/564
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First-  Belaban Hidup
-https://link.zozotv.xyz:443/fx2/fx2/377
 
 #EXTINF:-1 tvg-id="" tvg-name="EN:10x10" tvg-logo="http://mu01e.okcomputer.club:8880/images/egMETBYual2JtfFGigXTA0tGkME_small.jpg" group-title="ENGLISH VOD",EN:10x10
 http://95.214.235.96:8880/movie/SWFAF143575/VD6UF9EX/39354.mkv
