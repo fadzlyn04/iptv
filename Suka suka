@@ -2921,10 +2921,10 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title=" MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",123 Awesome TV
-#EXTVLCOPT:http-referrer=http://www.astro.com.my 
-#http://iptv.tvmalaysia.cc:80/104369/104369/9016
-https://bit.ly/35FNIsD
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",123 Awesome TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="MYFREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
