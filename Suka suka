@@ -3224,8 +3224,10 @@ https://tv.kpsvpn.com/sport1.mpd
 #https://linears-playback.astro.com.my/vsg/41CtIFLbClVZKsX8S-kQPzaLz-ov7WWVOOkfzcn2BE_2M=97Df/dash-wv/jitp-linearwm/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #http://203.154.243.89:21201/nakhon
-http://iptv12k.com:35461/live/8032022060101/452381/972.ts
+#http://iptv12k.com:35461/live/8032022060101/452381/972.ts
+https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport 2 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3234,8 +3236,10 @@ http://iptv12k.com:35461/live/8032022060101/452381/972.ts
 https://tv.kpsvpn.com/sport2.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #http://203.154.243.89:21202/nakhon
-http://iptv12k.com:35461/live/8032022060101/452381/655.ts
+#http://iptv12k.com:35461/live/8032022060101/452381/655.ts
+https://www.seulangatv.xyz/ns/sports/assp2.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3244,8 +3248,10 @@ http://iptv12k.com:35461/live/8032022060101/452381/655.ts
 https://tv.kpsvpn.com/sport3.mpd
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #http://203.154.243.89:21203/nakhon
-http://iptv12k.com:35461/live/8032022060101/452381/970.ts
+#http://iptv12k.com:35461/live/8032022060101/452381/970.ts
+https://www.seulangatv.xyz/ns/sports/assp3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3254,8 +3260,10 @@ http://iptv12k.com:35461/live/8032022060101/452381/970.ts
 https://tv.kpsvpn.com/sport4.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #http://203.154.243.89:21204/nakhon
-http://iptv12k.com:35461/live/8032022060101/452381/969.ts
+#http://iptv12k.com:35461/live/8032022060101/452381/969.ts
+https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
