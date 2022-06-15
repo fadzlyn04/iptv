@@ -3979,13 +3979,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="Religious" group-title="RELIGION" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-63ddcd0e01b347079e02800b761f3156-lq",Makkah TV
-https://raw.githubusercontent.com/HUISSINSJKN/MAKKAH_TV_SKY4K/main/playlist.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Religious" group-title="RELIGION" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbDvoGcSeUHnMqBgCIS-LZrTJOOBcAAbmU51s-=s900-c-k-c0x00ffffff-no-rj",Ghazwah TV
 https://raw.githubusercontent.com/bagushp/idi-gazwah/main/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Religious" group-title="RELIGION" tvg-logo="https://1.bp.blogspot.com/-TgD3LFJ6WFc/XaORM2hWa3I/AAAAAAAAC_U/TXfsy3ONAlAUEZyVx_Sa4SrYDFJhzytbQCLcBGAsYHQ/s1600/sunnah-live.jpg",Al Sunnah Al Nabawiyah TV
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/Live.m3u8
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tawaf.png" group-title="RELIGION",Tawaf TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
