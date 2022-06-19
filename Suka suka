@@ -3022,8 +3022,7 @@ https://Astro.kpsboyserver.com/AstroRia.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #https://linears-playback.astro.com.my/vsg/41V1tuby9aI8xK_VjN6T8TiuSx0GWFekMjIGLDx7_8a6A=jacu/dash-wv/jitp-linearwm/1004/default_primary.mpd
-#http://139.99.56.106:2082/sakinah1/sakinah1/8444
-http://iptv12k.com:35461/live/8032022060101/452381/735.ts
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158347
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
@@ -3041,8 +3040,7 @@ https://Astro.kpsboyserver.com/AstroWarna.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkfSzGHagDIo1fdnH0gRNdU=0fMS/dash-wv/jitp-linearwm/2402/default_primary.mpd
-#http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1706
-http://iptv12k.com:35461/live/8032022060101/452381/4313.ts
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157492
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
@@ -3059,8 +3057,7 @@ https://Astro.kpsboyserver.com/AstroCitra.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hi1k4cBE0bjsDm54IZjHRyQ=2tHC/dash-wv/jitp-linearwm/2700/default_primary.mpd
-#http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/71146
-http://iptv12k.com:35461/live/8032022060101/452381/721.ts
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157569
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
@@ -3445,8 +3442,8 @@ https://Astro.kpsboyserver.com/AstroSp1.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-http://203.154.243.89:21201/nakhon
-#http://iptv12k.com:35461/live/8032022060101/452381/972.ts
+#http://203.154.243.89:21201/nakhon
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 #https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport 2 HD 
@@ -3458,8 +3455,8 @@ https://Astro.kpsboyserver.com/AstroSp2.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-http://203.154.243.89:21202/nakhon
-#http://iptv12k.com:35461/live/8032022060101/452381/655.ts
+#http://203.154.243.89:21202/nakhon
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 #https://www.seulangatv.xyz/ns/sports/assp2.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD 
@@ -3471,8 +3468,8 @@ https://Astro.kpsboyserver.com/AstroSp3.mpd
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-http://203.154.243.89:21203/nakhon
-#http://iptv12k.com:35461/live/8032022060101/452381/970.ts
+#http://203.154.243.89:21203/nakhon
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
 #https://www.seulangatv.xyz/ns/sports/assp3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD 
@@ -3483,8 +3480,8 @@ https://Astro.kpsboyserver.com/AstroSp4.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-http://203.154.243.89:21204/nakhon
-#http://iptv12k.com:35461/live/8032022060101/452381/969.ts
+#http://203.154.243.89:21204/nakhon
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 #https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD AstGO
