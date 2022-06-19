@@ -3339,6 +3339,19 @@ http://210.210.129.106/uq2663/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="https://logolook.net/wp-content/uploads/2021/12/Bflix-Logo.png" group-title="MOVIES", Bflix MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES",&Pictures
+http://103.55.144.46/hls/andpictures.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="MOVIES",Movies Now
+http://103.55.144.46/hls/movies-now.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" group-title="MOVIES",Mnx
+http://103.55.144.46/hls/mnx-hd.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85c6214071407b6343d34943a7006910:744fc01109d5a77a6dfd6df4db5987b9
+#EXTINF:-1 tvg-id="129" tvg-name="ART Movies" group-title="MOVIES" tvg-logo="https://iili.io/1Nq0Au.png",129 ART Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default.mpd
 
 
 
@@ -4319,6 +4332,15 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=edf1a715de9748638dd2fad75a419af2&key=2f5a3199b26e9b693ae881af7ff864cf
+#EXTINF:-1 tvg-id="animax" tvg-name="animax" group-title="SINGAPURA" tvg-logo="https://telegra.ph/file/bef929065afa100b0e450.png",ANIMAX
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0403e654ddab419db6cc72bb3fa51248&key=9d43bcc51f3750550d321cdc37e57cc9
+#EXTINF:-1 tvg-id="gem" tvg-name="gem" group-title="SINGAPURA" tvg-logo="https://telegra.ph/file/56b2a633e795a19f9b1d8.png",GEM
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 
 
