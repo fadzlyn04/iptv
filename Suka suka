@@ -1558,10 +1558,10 @@ di muka. Ali hanya gelak kecil lalu mencapai tisu dan mengelap bibir Husna dan m
 terus membuka mata dan memandang Ali yang di depannya, tangan Ali masih di pipi Husna dan Ali secara tiba-tiba mencium kening nya.
 " Just want to see you. Since i already see you, I will go" kata Ali dan terus berlalu pergi.
 
-
-
-
 "Ali nak apa jumpa pagi-pagi buta ni?" tanya Husna dengan mamai, rambut serabai,air liur meleleh di pipi dengan tahi mata yang masih 
+
+
+
 di muka. Ali hanya gelak kecil lalu mencapai tisu dan mengelap bibir Husna dan menolong nya mengambil tahi mata di muka Husna. Husna 
 terus membuka mata dan memandang Ali yang di depannya, tangan Ali masih di pipi Husna dan Ali secara tiba-tiba mencium kening nya.
 " Just want to see you. Since i already see you, I will go" kata Ali dan terus berlalu pergi.
@@ -4688,6 +4688,97 @@ http://node-15.zeno.fm:80/tny4226nachvv
 
 #EXTINF:-1 tvg-id="CHN" group-title="STESEN RADIO" ch-number="832" tvg-logo="https://aqfadtv.astradamy.com/logos/Imagine.png",Imagine
 http://node-03.zeno.fm:80/d50cvfngzchvv
+
+
+
+
+                                                          Thailand
+
+#EXTINF:-1, group-title="THAILAND",BBTV Channel 7
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 7
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 8
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 9
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 10
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 11
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 12
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 13
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 14
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",DLTV 15
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://f.ptcdn.info/186/026/000/1417615175-ThaiPBS201-o.png",ThaiPBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TPTV_logo_2014.png",TPTV
+http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/TNN24_Logo.png",TNN16
+http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png",NationTV
+http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://image.bangkokbiznews.com/image/kt/media/image/news/2019/11/12/854341/750x422_854341_1573566062.jpg",workpoint
+http://freelive2.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://www.true4u.com/images/true4u.jpg",True4u
+http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png",GMM25
+http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ONEHD
+http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://9oog.com/wp-content/uploads/2020/05/Thairath_TV_Logo.svg_.png",ThairathTV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",CH3
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+
+
+
+                                                       live vod
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Malay
