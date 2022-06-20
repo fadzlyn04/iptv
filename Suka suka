@@ -3022,11 +3022,11 @@ https://Astro.kpsboyserver.com/AstroRia.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #https://linears-playback.astro.com.my/vsg/41V1tuby9aI8xK_VjN6T8TiuSx0GWFekMjIGLDx7_8a6A=jacu/dash-wv/jitp-linearwm/1004/default_primary.mpd
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158347
+http://50.7.220.74:8278/Ria/playlist.m3u8?tid=m02000000000016577258&ct=17958&tsum=538739a0520a004cfcf115fef17fe8cc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="ASTRO" tvg-id="",Astro Ria Backup
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="ASTRO" tvg-id="",Astro Ria Backup 2
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/1004/default_ott.mpd
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #http://95.214.235.96:8880/SWFAF143575/VD6UF9EX/1705
@@ -3040,11 +3040,11 @@ https://Astro.kpsboyserver.com/AstroWarna.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkfSzGHagDIo1fdnH0gRNdU=0fMS/dash-wv/jitp-linearwm/2402/default_primary.mpd
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157492
+http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO", Astro Warna Backup
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO", Astro Warna Backup 2
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2402/default_ott.mpd
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
@@ -3057,11 +3057,11 @@ https://Astro.kpsboyserver.com/AstroCitra.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hi1k4cBE0bjsDm54IZjHRyQ=2tHC/dash-wv/jitp-linearwm/2700/default_primary.mpd
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157569
+http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
-#EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO" tvg-id="",Astro Citra Backup
+#EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO" tvg-id="",Astro Citra Backup 2
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2700/default_ott.mpd
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
                                                             
@@ -3455,8 +3455,8 @@ https://Astro.kpsboyserver.com/AstroSp1.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#http://203.154.243.89:21201/nakhon
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
+http://203.154.243.89:21201/nakhon
+#http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 #https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport 2 HD 
@@ -3468,8 +3468,8 @@ https://Astro.kpsboyserver.com/AstroSp2.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#http://203.154.243.89:21202/nakhon
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
+http://203.154.243.89:21202/nakhon
+#http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 #https://www.seulangatv.xyz/ns/sports/assp2.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD 
@@ -3481,8 +3481,8 @@ https://Astro.kpsboyserver.com/AstroSp3.mpd
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#http://203.154.243.89:21203/nakhon
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
+http://203.154.243.89:21203/nakhon
+#http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
 #https://www.seulangatv.xyz/ns/sports/assp3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD 
@@ -3493,8 +3493,8 @@ https://Astro.kpsboyserver.com/AstroSp4.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#http://203.154.243.89:21204/nakhon
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
+http://203.154.243.89:21204/nakhon
+#http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 #https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD AstGO
