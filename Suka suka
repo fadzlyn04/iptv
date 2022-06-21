@@ -3349,17 +3349,124 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES",&Pictures
 http://103.55.144.46/hls/andpictures.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="MOVIES",Movies Now
-http://103.55.144.46/hls/movies-now.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" tvg-id="" tvg-name="" group-title="MOVIES",Sony Pix HD
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png" group-title="MOVIES",Mnx
-http://103.55.144.46/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png" group-title="MOVIES",Box Movie 1 HD
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85c6214071407b6343d34943a7006910:744fc01109d5a77a6dfd6df4db5987b9
-#EXTINF:-1 tvg-id="129" tvg-name="ART Movies" group-title="MOVIES" tvg-logo="https://iili.io/1Nq0Au.png",129 ART Movies
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png" group-title="MOVIES",Hollywood Classics HD
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 1: spotlight (1080p).png" group-title="MOVIES",Redbox 1: Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 2: comedy (1080p).png" group-title="MOVIES",Redbox 2: Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 3: rush (1080p).png" group-title="MOVIES",Redbox 3: Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="MOVIES",Movies X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/ayefries/IPTV/main/icons/sec2-cablestreaming/Showtime.png" group-title="MOVIES",Showtime
+http://38.127.211.18/live/c2eds/Showtime/HLS/index.m3u8
+#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-name="Pluto TV Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="MOVIES",PLUTO TV SPOTLIGHT
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-chno="80" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="MOVIES",BLACK CINEMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="MOVIES",FLICKS OF FURY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="MOVIES",PLUTO TV FANTASTIC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere (1080p)" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="MOVIES",MOVIESPHERE
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-name="Bumblebee TV PopCornFlix Action (1080p)" tvg-logo="https://i.imgur.com/Ths3dIy.png" group-title="MOVIES",BUMBLEBEE TV POPCORNFLIX ACTION (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-name="Gravitas Movies (720p)" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="MOVIES",GRAVITAS MOVIES (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More (720p)" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="MOVIES",HALLMARK MOVIES & MORE (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="MOVIES",ACTION HOLLYWOOD MOVIES
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 1" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 1
+http://new-pro.tv:8080/mazen1/123456/133730
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 2" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 2
+http://new-pro.tv:8080/mazen1/123456/133731
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 3" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 3
+http://new-pro.tv:8080/mazen1/123456/133732
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 4" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 4
+http://new-pro.tv:8080/mazen1/123456/133733
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 5" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 5
+http://new-pro.tv:8080/mazen1/123456/133734
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 6" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 6
+http://new-pro.tv:8080/mazen1/123456/133735
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 7" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 7
+http://new-pro.tv:8080/mazen1/123456/133736
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 8" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 8
+http://new-pro.tv:8080/mazen1/123456/133737
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 9" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 9
+http://new-pro.tv:8080/mazen1/123456/133738
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 10" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="MOVIES HBO & DISNEY+",DISNEY+ ACTION 10
+http://new-pro.tv:8080/mazen1/123456/133739
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 1" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 1
+http://new-pro.tv:8080/mazen1/123456/114534
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 2" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 2
+http://new-pro.tv:8080/mazen1/123456/114535
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 3" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 3
+http://new-pro.tv:8080/mazen1/123456/118958
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 4" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 4
+http://new-pro.tv:8080/mazen1/123456/118959
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 5" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 5
+http://new-pro.tv:8080/mazen1/123456/118960
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 6" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 6
+http://new-pro.tv:8080/mazen1/123456/149174
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 7" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 7
+http://new-pro.tv:8080/mazen1/123456/149175
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 8" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 8
+http://new-pro.tv:8080/mazen1/123456/149176
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 9" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 9
+http://new-pro.tv:8080/mazen1/123456/149177
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 10" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO & DISNEY+",HBO Action VIP 10
+http://new-pro.tv:8080/mazen1/123456/149178
 
 
 
