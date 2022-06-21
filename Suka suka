@@ -3075,7 +3075,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157467
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053175
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="ASTRO" ch-number="106" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",106 Astro Oasis AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
