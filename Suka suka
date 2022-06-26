@@ -5262,37 +5262,37 @@ https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"  group-title="THAILAND",DLTV 14
 https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",DLTV 15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",DLTV 15
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
-#EXTINF:-1, group-title="THAILAND",tvg-logo="https://f.ptcdn.info/186/026/000/1417615175-ThaiPBS201-o.png",ThaiPBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",ThaiPBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",TPTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",TPTV
 http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",TNN16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",TNN16
 http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",NationTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",NationTV
 http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",workpoint
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",workpoint
 http://freelive2.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",True4u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",True4u
 http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",GMM25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",GMM25
 http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",ONEHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",ONEHD
 http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",ThairathTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",ThairathTV
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png"group-title="THAILAND",CH3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fazly.6te.net/picture/Fz%20Tv.png" group-title="THAILAND",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 
 
