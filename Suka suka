@@ -5018,12 +5018,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 #EXTINF:-1 tvg-id="Dunialain.MACAN" tvg-name="ID: Dunia Lain TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/72/Dunia_Lain.jpg" group-title="INDONESIA",Dunia Lain
 #https://delivery.macan.network/stream/dunialain/playlist.m3u8?token=mqj13k6&v=20200807
-https://4fl0.short.gy/FzTv/dunialain
+http://103.180.119.17:8811/stream/channelid/1737811113?profile=pass
 
 #EXTINF:-1 tvg-id="Duniaanak.MACAN" tvg-name="ID: Dunia Anak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="INDONESIA",Dunia Anak
-https://4fl0.short.gy/FzTv/duniaanak
-
-
+http://103.180.119.17:8811/stream/channelid/387264504?profile=pass
 
 
                                                                      RADIO
