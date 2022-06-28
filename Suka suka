@@ -3730,13 +3730,16 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="Xtra Movies",MY CINEMA
-http://rr.dens.tv/h/h192/index.m3u8
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png" group-title="Xtra Movies",MY CINEMA ASIA
-http://rr.dens.tv/h/h193/index.m3u8
-
+ http://210.210.155.35/uq2663/h/h193/index.m3u8
+ 
 #EXTINF:-1 tvg-id="" tvg-logo="http://play.kobar.online:8080/images/6a4670d01e328b6ca20cf1a7a3aeb773.png" group-title="Xtra Movies",MY FAMILY CHANNEL
-http://rr.dens.tv/h/h194/index.m3u8
+http://210.210.155.35/x6bnqe/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/European_Film_Awards_statue.png" group-title="Xtra Movies",MY CINEMA EUROPE
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://logolook.net/wp-content/uploads/2021/12/Bflix-Logo.png" group-title="Xtra Movies", Bflix MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
