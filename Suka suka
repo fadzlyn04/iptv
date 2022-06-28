@@ -4438,6 +4438,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dac64e0ed7eec1cde6777b7616917710&key=6fcec68baae0c9822b8ec3f29f7cd0bc
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_primary.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest/scale-to-width-down/238?cb=20140525234116" group-title="Kids",happykids
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest/scale-to-width-down/238?cb=20140525234116" group-title="Kids",happy kids junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/cf64ec045ea3d1fc0340a9de61829ce8f76447d4d8f325f7b433ad9b2dcdc393.png" group-title="Kids",ConTV Anime
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids",Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dd4b&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/angrybirds/images/f/fc/AB2_Tenth_Icon.png/revision/latest/scale-to-width-down/700?cb=20211111150429" group-title="Kids", Angry Bird
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZmhhv7/images.png" group-title="Kids",Lego
+https://legochannel-roku.amagi.tv/playlist.m3u8
 
 
 
