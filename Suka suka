@@ -3469,13 +3469,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSensasi.sg" tvg-name="Hub Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="Malaysia",Astro Sensasi
+#EXTINF:-1 tvg-id="AstroSensasi.sg" tvg-name="Hub Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="ASTRO",Astro Sensasi
 http://metatvpro.com:25461/Nizam6473/Nizam6473/8
 
 #EXTINF:-1 tvg-id="OPPA MANIA" group-title="ASTRO" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_primary.mpd
 
 
 
@@ -4913,7 +4913,7 @@ https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR FHD" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="INDONESIA", Indosiar HD
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="INDONESIA",SCTV
 http://tvn.x10.bz/xchannel/master-24.m3u8
@@ -5018,8 +5018,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b18268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-id="Dunialain.MACAN" tvg-name="ID: Dunia Lain TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/72/Dunia_Lain.jpg" group-title="INDONESIA",Dunia Lain
-#https://delivery.macan.network/stream/dunialain/playlist.m3u8?token=mqj13k6&v=20200807
-http://103.180.119.17:8811/stream/channelid/1737811113?profile=pass
+https://delivery.macan.network/stream/dunialain/playlist.m3u8?token=mqj13k6&v=20200807
+ http://103.180.119.17:8811/stream/channelid/1737811113?profile=pass
 
 #EXTINF:-1 tvg-id="Duniaanak.MACAN" tvg-name="ID: Dunia Anak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="INDONESIA",Dunia Anak
 http://103.180.119.17:8811/stream/channelid/387264504?profile=pass
