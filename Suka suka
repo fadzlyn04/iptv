@@ -3390,9 +3390,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-https://bit.ly/3bWkLeI
 # https://movierakyat.link/m8qjxq.mpd
 # https://stream.zeehanzgadget.com/ria.mpd
+http://axcestv.vip:8080/@harris/utEYY7kAGj/454
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",104 Astro Ria backup 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3400,7 +3400,7 @@ https://bit.ly/3bWkLeI
 # https://linears-playback.astro.com.my/vsg/41V1tuby9aI8xK_VjN6T8TiuSx0GWFekMjIGLDx7_8a6A=jacu/dash-wv/jitp-linearwm/1004/default_primary.mpd
 # http://50.7.220.74:8278/Ria/playlist.m3u8?tid=m02000000000016577258&ct=17958&tsum=538739a0520a004cfcf115fef17fe8cc
 # https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
-http://axcestv.vip:8080/@harris/utEYY7kAGj/454
+https://bit.ly/3bWkLeI
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
@@ -3411,7 +3411,7 @@ https://ktiptv.cf:443/161/161/694460
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-https://m3u-editor.com/serve/jackstore/463614332
+http://axcestv.vip:8080/@harris/utEYY7kAGj/456
 # https://movierakyat.link/mTqyrs.mpd
 # https://stream.zeehanzgadget.com/warna.mpd
 
@@ -3431,7 +3431,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-https://bit.ly/3NMIg7i
+http://axcestv.vip:8080/@harris/utEYY7kAGj/459
 # https://movierakyat.link/ePggbR.mpd
 # https://stream.zeehanzgadget.com/citra.mpd
 
@@ -3447,7 +3447,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO" tvg-id="",Astro Citra Backup 2
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2700/default_ott.mpd
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+https://bit.ly/3NMIg7i
                                                             
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" ch-number="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",105 Astro Prima AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
