@@ -3411,7 +3411,7 @@ https://ktiptv.cf:443/161/161/694460
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-http://axcestv.vip:8080/@harris/utEYY7kAGj/456
+http://axcestv.vip:8080/@harris/utEYY7kAGj/457
 # https://movierakyat.link/mTqyrs.mpd
 # https://stream.zeehanzgadget.com/warna.mpd
 
@@ -3420,7 +3420,8 @@ http://axcestv.vip:8080/@harris/utEYY7kAGj/456
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkfSzGHagDIo1fdnH0gRNdU=0fMS/dash-wv/jitp-linearwm/2402/default_primary.mpd
 #https://tv.kpsvpn.com/astroghana.mpd
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+http://axcestv.vip:8080/@harris/utEYY7kAGj/456
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
