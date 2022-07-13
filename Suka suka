@@ -3392,7 +3392,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 # https://movierakyat.link/m8qjxq.mpd
 # https://stream.zeehanzgadget.com/ria.mpd
-https://ktiptv.asia:443/live/J0269/0927/25855.m3u8
+http://51.81.208.129:35461/80301062102/732099/735
 
 #EXTINF:-1 group-title="ASTRO" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",104 Astro Ria backup 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3411,8 +3411,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-https://ktiptv.asia:443/live/J0269/0927/25867.m3u8
- # https://movierakyat.link/mTqyrs.mpd
+http://51.81.208.129:35461/80301062102/732099/733
+# https://movierakyat.link/mTqyrs.mpd
 # https://stream.zeehanzgadget.com/warna.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",107 Astro Warna backup
@@ -3432,8 +3432,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-https://ktiptv.asia:443/live/J0269/0927/25852.m3u8
- # https://movierakyat.link/ePggbR.mpd
+http://51.81.208.129:35461/80301062102/732099/721
+# https://movierakyat.link/ePggbR.mpd
 # https://stream.zeehanzgadget.com/citra.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="ASTRO" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",108 Astro Citra backup
@@ -3502,8 +3502,8 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
  
 #EXTINF:-1 tvg-id="TV3" group-title="MYFREEVIEW" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 backup
-https://live.astradamy.com/tv3/index.m3u8
-# http://axcestv.vip:8080/freeview/axcestv/624
+# https://live.astradamy.com/tv3/index.m3u8
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
  
 #EXTINF:-1 tvg-id="105" group-title="MYFREEVIEW" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg",105 Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
