@@ -3798,71 +3798,7 @@ http://203.154.177.124:8899/live/ch7/playlist.m3u8
 
 
  
-                                                          MOVIES HBO & DISNEY+
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 1" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 1
-http://new-pro.tv:8080/mazen1/123456/133730
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 2" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 2
-http://new-pro.tv:8080/mazen1/123456/133731
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 3" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 3
-http://new-pro.tv:8080/mazen1/123456/133732
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 4" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 4
-http://new-pro.tv:8080/mazen1/123456/133733
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 5" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 5
-http://new-pro.tv:8080/mazen1/123456/133734
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 6" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 6
-http://new-pro.tv:8080/mazen1/123456/133735
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 7" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 7
-http://new-pro.tv:8080/mazen1/123456/133736
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 8" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 8
-http://new-pro.tv:8080/mazen1/123456/133737
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 9" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 9
-http://new-pro.tv:8080/mazen1/123456/133738
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 10" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="DISNEY+",DISNEY+ ACTION 10
-http://new-pro.tv:8080/mazen1/123456/133739
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 1" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 1
-http://new-pro.tv:8080/mazen1/123456/114534
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 2" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 2
-http://new-pro.tv:8080/mazen1/123456/114535
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 3" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 3
-http://new-pro.tv:8080/mazen1/123456/118958
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 4" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 4
-http://new-pro.tv:8080/mazen1/123456/118959
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 5" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 5
-http://new-pro.tv:8080/mazen1/123456/118960
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 6" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 6
-http://new-pro.tv:8080/mazen1/123456/149174
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 7" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 7
-http://new-pro.tv:8080/mazen1/123456/149175
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 8" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 8
-http://new-pro.tv:8080/mazen1/123456/149176
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 9" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 9
-http://new-pro.tv:8080/mazen1/123456/149177
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 10" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="MOVIES HBO",HBO Action VIP 10
-http://new-pro.tv:8080/mazen1/123456/149178
+                                                        
 
 
 
