@@ -5183,51 +5183,6 @@ https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/ALTV_Logo.png" group-title="Thailand",ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606" group-title="Thailand",DLTV 1
-https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 2
-https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 3
-https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 4
-https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 5
-https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 6
-https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 7
-https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
-
-#EXTINF:--1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 8
-https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 9
-https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
-
-#EXTINF:--1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 10
-https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 11
-https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 12
-https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 13
-https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606"  group-title="Thailand",DLTV 14
-https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/DLTV_new_logo.png/revision/latest?cb=20200523120606" group-title="Thailand",DLTV 15
-https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Thai_PBS_2015.svg" group-title="Thailand",ThaiPBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
