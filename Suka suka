@@ -3731,7 +3731,9 @@ http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://logolook.net/wp-content/uploads/2021/12/Bflix-Logo.png" group-title="Xtra Movies", Bflix MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+# https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+http://mag.you24.online:8080/jc1bu936np/zmi245c2fk/672302
+
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" tvg-id="" tvg-name="" group-title="Xtra Movies",Sony Pix HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
