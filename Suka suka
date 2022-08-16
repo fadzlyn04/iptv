@@ -4038,7 +4038,7 @@ http://172.96.160.37:9138/stream/live/c20629.m3u8?idstream=ria
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 # https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 # https://movierakyat.link/mTqyrs.mpd
-https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMztcMyr3_qnJFfuOgt6eEaM
+https://nonton.site:8443/mustakim/mustakim/37335
 # http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",107 Astro Warna backup
@@ -5611,12 +5611,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-id="Dunialain.MACAN" tvg-name="ID: Dunia Lain TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/72/Dunia_Lain.jpg" group-title="INDONESIA",Dunia Lain
 # https://delivery.macan.network/stream/dunialain/playlist.m3u8?token=mqj13k6&v=20200807
 # http://103.180.119.17:8811/stream/channelid/1737811113?profile=pass
-http://superzap.my.id:33210/1035/1035/4710
+ https://nonton.site:8443/mustakim/mustakim/910
 
 #EXTINF:-1 tvg-id="Duniaanak.MACAN" tvg-name="ID: Dunia Anak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="INDONESIA",Dunia Anak
 # http://103.180.119.17:8811/stream/channelid/387264504?profile=pass
-https://iptv.lancartech.co.id:443/play/oeFA3H12KYzUmLXd_48FQnzW24jOsQxGckCnYth26MFLgX-IQAuaEACn6t2uBV_P
-
+ https://nonton.site:8443/mustakim/mustakim/907
+ 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png",Bandung TV
