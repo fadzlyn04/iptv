@@ -5518,9 +5518,10 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 # http://playlist.urfan.web.id/qwr9ew/s/s03/index.m3u8
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="INDONESIA",SCTV
-# http://tvn.x10.bz/xchannel/master-24.m3u8
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="INDONESIA",SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="INDONESIA",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
