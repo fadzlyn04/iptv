@@ -4455,13 +4455,13 @@ http://203.154.177.124:8899/live/ch7/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 # https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/2105/default_primary.mpd
 # https://ktiptv.asia:443/live/J0269/0927/25943.m3u8
-https://aqfadtv.xyz/vinmeen.m3u8
+https://stream.zeehanzgadget.com/vinmeen
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen Backup 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://stream.zeehanzgadget.com/vinmeen
+# https://stream.zeehanzgadget.com/vinmeen
 # https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/2105/default_primary.mpd
 # https://stream.zeehanzgadget.com/vinmeen.mpd
 https://aqfadtv.xyz/vinmeen.m3u8
