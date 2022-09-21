@@ -4031,7 +4031,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="ASTRO" tvg-id="",Astro Ria Backup 2
 #https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/1004/default_ott.mpd
 # https://ktiptv.cf:443/161/161/694460
-http://172.96.160.37:9138/stream/live/c20629.m3u8?idstream=ria
+http://51.81.208.129:35461/17501083101/524668/735
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4077,7 +4077,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO" tvg-id="",Astro Citra Backup 2
 # https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2700/default_ott.mpd
 # https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
-http://104.238.221.63:9138/stream/live/c20425.m3u8?idstream=citra
+http://51.81.208.129:35461/17501083101/524668/6608
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" ch-number="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",105 Astro Prima AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4540,22 +4540,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="SPORTS",ASTRO SUPERSPORT 2 HD backup 1
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://aqfadtv.xyz/supersport2.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport3"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="SPORTS",ASTRO SUPERSPORT 3 HD backup 1
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://aqfadtv.xyz/supersport3.m3u8
-
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://content.astro.com.my/channels/Astro-SuperSport-4-HD-241" group-title="SPORTS",ASTRO SUPERSPORT 4 HD backup 1
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://aqfadtv.xyz/supersport4.m3u8
-                                                                                                                                  
+                                                                                                                           
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",811 Astro SuperSport HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
@@ -4584,7 +4569,7 @@ https://ad2017.vhls.ru.com/cdn/premium125/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ad2017.vhls.ru.com/cdn/premium126/mono.m3u8
 
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup 2
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #http://203.154.243.89:21201/nakhon
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
@@ -4592,7 +4577,7 @@ https://ad2017.vhls.ru.com/cdn/premium126/mono.m3u8
 #http://51.81.208.129:35461/80201051217/424567/7990
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 
-#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup 2
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #http://203.154.243.89:21202/nakhon
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
@@ -4600,7 +4585,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 #http://51.81.208.129:35461/80201051217/424567/655
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
-#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup 2
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #http://203.154.243.89:21203/nakhon
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
@@ -4608,7 +4593,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 #http://51.81.208.129:35461/80201051217/424567/654
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8 
 
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup 2
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
 #http://203.154.243.89:21204/nakhon
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
