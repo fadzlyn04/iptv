@@ -5044,10 +5044,6 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Oppa-Mania" group-title="Korea" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_primary.mpd
 
 #EXTINF:-1 tvg-id="KBSWorld" ch-number="392" group-title="Korea" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png", 392 KBS World HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5384,8 +5380,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 
 
 #EXTINF:-1 tvg-id="AstroUHD" ch-number="781" group-title="4K" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",780 Astro UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDE2MDJI49yVmwY=
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="4K",ADVENTURE 4K
