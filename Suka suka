@@ -4181,8 +4181,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hello HD" group-title="MYFREEVIEW" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-
+# https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522.m3u8
 
 #EXTINF:-1, group-title="Brunei" tvg-id="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b1696000_sleng.m3u8
@@ -4192,7 +4192,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b1696000_sleng.m3u8
 
 #EXTINF:-1, group-title="Brunei" tvg-id="CHN" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png",RTB Aneka (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
-                                                            Movies
+                                                           
+                                                           
+                                                           
+                                                           Movies
 
 
 
@@ -5380,7 +5383,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 
 #EXTINF:-1 tvg-id="AstroUHD" ch-number="781" group-title="4K" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",780 Astro UHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBDE2MDJI49yVmwY=
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=149b755651a6c538cc23022490331f10&key=10ca1735d743a0181814b5a4f3923575
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="4K",ADVENTURE 4K
