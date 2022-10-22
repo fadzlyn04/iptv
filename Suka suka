@@ -5387,7 +5387,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 
 #EXTINF:-1 tvg-id="AstroUHD" ch-number="781" group-title="4K" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",780 Astro UHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=149b755651a6c538cc23022490331f10&key=10ca1735d743a0181814b5a4f3923575
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/149b7556-51a6-c538-cc23-022490331f10
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="4K",ADVENTURE 4K
