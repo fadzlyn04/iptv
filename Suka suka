@@ -4150,13 +4150,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="MYFREEVIEW" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
-http://51.79.82.208:16047
+http://51.79.82.208:16004
 
 #EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV
-http://51.79.82.208:16048
+http://51.79.82.208:16005
 
 #EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MYFREEVIEW" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9
-http://51.79.82.208:16049
+http://51.79.82.208:16006
 
 #EXTINF:-1, group-title="MYFREEVIEW" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
@@ -4164,6 +4164,15 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="Hello HD" group-title="MYFREEVIEW" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
 # https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522.m3u8
+
+
+
+
+
+                                                     BRUNEI
+
+
+
 
 #EXTINF:-1, group-title="Brunei" tvg-id="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b1696000_sleng.m3u8
@@ -4536,31 +4545,35 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium124/index.m3u8
+# https://ad2017.vhls.ru.com/lb/premium124/index.m3u8
+http://line.uhd-ott.xyz:80/live/58AD54/F22589/556246.ts
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium125/index.m3u8
+# https://ad2017.vhls.ru.com/lb/premium125/index.m3u8
+http://line.uhd-ott.xyz:80/live/58AD54/F22589/556247.ts
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium126/index.m3u8
+# https://ad2017.vhls.ru.com/lb/premium126/index.m3u8
+http://line.uhd-ott.xyz:80/live/58AD54/F22589/556248.ts
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",811 Astro SuperSport HD AstGO backup 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ad2017.vhls.ru.com/lb/premium123/index.m3u8
+# https://ad2017.vhls.ru.com/lb/premium123/index.m3u8
+http://line.uhd-ott.xyz:80/live/58AD54/F22589/556245.ts
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup 1
-#http://203.154.243.89:21201/nakhon
+http://203.154.243.89:21201/nakhon
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 #https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 #http://51.81.208.129:35461/80201051217/424567/7990
@@ -4568,7 +4581,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#http://203.154.243.89:21202/nakhon
+http://203.154.243.89:21202/nakhon
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 #https://www.seulangatv.xyz/ns/sports/assp2.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 #http://51.81.208.129:35461/80201051217/424567/655
@@ -4576,7 +4589,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#http://203.154.243.89:21203/nakhon
+http://203.154.243.89:21203/nakhon
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
 #https://www.seulangatv.xyz/ns/sports/assp3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 #http://51.81.208.129:35461/80201051217/424567/654
@@ -4584,7 +4597,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-#http://203.154.243.89:21204/nakhon
+http://203.154.243.89:21204/nakhon
 #http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 #https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 #http://51.81.208.129:35461/80201051217/424567/653
@@ -4727,7 +4740,96 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/576ce4f8-70d3-49b1-b7e8-a04a3c1fa6f6
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+
+
+
+
+WORLD CUP 2022
+
+
+
+
     
+#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 cliptv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv2hd/chunklist.m3u8|Referer=https://cliptv.vn/
+
+#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 vieon
+http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 vtvgiaitri
+https://8ypuv74wu.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 fptplay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 iptvFPT
+http://live.vthanhtivi.pw:8080/vtv2
+ 
+#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 cliptv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv3hd/chunklist.m3u8 
+
+#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 vieon
+http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 vtvgiaitri
+https://8ypuv74wu.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 tv360
+http://171.238.181.52:18080/155.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 fptplay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 iptvFPT
+http://live.vthanhtivi.pw:8080/vtv3
+ 
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 cliptv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 tv360
+#http://171.238.181.52:18080/194.m3u8
+http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 vieon
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 vtvgiaitri
+https://8ypuv74wu.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 fptplay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 iptvFPT
+http://live.vthanhtivi.pw:8080/vtv5
+
+#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ tv360
+#http://171.238.181.52:18080/156.m3u8
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ cliptv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52
+#EXTVLCOPT:http-referer=https://cliptv.vn
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ vieon
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ vtvgiaitri
+https://8ypuv74wu.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd"group-title="🏆⚽️WORLD CUP 2022" tvg-logo="https://static.mediacdn.vn/vtv/web_images/logo_vtv_cantho2022.png",VTV CầnThơ fptplay
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_4000.stream/chunklist.m3u8
+
 
 
 
