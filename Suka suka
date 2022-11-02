@@ -4042,7 +4042,7 @@ https://4fl0.short.gy/FzTv/warna.mpd
 # https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2402/default_ott.mpd
 # https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 # http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
-https://aqfadtv.xyz/warna.m3u8
+https://aqfadtv.xyz/live/warna/index.mpd
 # https://nonton.site:8443/mustakim/mustakim/37335
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra 
@@ -4058,7 +4058,6 @@ https://stream.zeehanzgadget.com/citra
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hi1k4cBE0bjsDm54IZjHRyQ=2tHC/dash-wv/jitp-linearwm/2700/default_primary.mpd
 #http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
-https://4fl0.short.gy/FzTv/citra.mpd
 # https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4066,7 +4065,7 @@ https://4fl0.short.gy/FzTv/citra.mpd
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO" tvg-id="",Astro Citra Backup 2
 # https://linears-playback.astro.com.my/vsg/21hSTreDoP4JkZi8acBSiqbX82trGaE4JgYHlYpREKJtA=EKzD/dash-wv/jitp-linearwm/2700/default_ott.mpd
 # https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
-http://51.81.208.129:35461/17501083101/524668/6608
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="ASTRO" ch-number="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",105 Astro Prima AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4455,7 +4454,7 @@ https://stream.zeehanzgadget.com/vinmeen
 # https://stream.zeehanzgadget.com/vinmeen
 # https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/2105/default_primary.mpd
 # https://stream.zeehanzgadget.com/vinmeen.mpd
-https://aqfadtv.xyz/vinmeen.m3u8
+https://aqfadtv.xyz/live/vinmeen/index.mpd
 
 #EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
