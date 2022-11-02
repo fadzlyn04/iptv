@@ -4121,7 +4121,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 http://51.79.82.208:16003
 
 #EXTINF:-1 tvg-id="105" group-title="MYFREEVIEW" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg",105 Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
+http://51.79.82.208:16005
 
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="MYFREEVIEW",114 TV AlHijrah HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4150,13 +4150,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="MYFREEVIEW" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
-http://51.79.82.208:16007
+http://51.79.82.208:16047
 
 #EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV
-http://51.79.82.208:16008
+http://51.79.82.208:16048
 
 #EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MYFREEVIEW" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9
-http://51.79.82.208:16009
+http://51.79.82.208:16049
 
 #EXTINF:-1, group-title="MYFREEVIEW" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
