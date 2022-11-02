@@ -4032,8 +4032,7 @@ https://stream.zeehanzgadget.com/warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkfSzGHagDIo1fdnH0gRNdU=0fMS/dash-wv/jitp-linearwm/2402/default_primary.mpd
-https://4fl0.short.gy/FzTv/warna.mpd
-# https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 # https://stream.zeehanzgadget.com/warna
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4058,7 +4057,7 @@ https://stream.zeehanzgadget.com/citra
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
 #https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hi1k4cBE0bjsDm54IZjHRyQ=2tHC/dash-wv/jitp-linearwm/2700/default_primary.mpd
 #http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
-# https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
@@ -4090,8 +4089,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroSensasi.sg" tvg-name="Hub Sensasi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png" group-title="ASTRO",Astro Sensasi
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 # http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
-http://iptv12k.com:35461/80301070602/456776/9139
-
+# http://iptv12k.com:35461/80301070602/456776/9139
+http://mynxg.top:8080/play/live.php?mac=00:1A:79:B8:94:68&stream=130705&extension=ts
 
                                                              MYFREEVIEW
 
@@ -4229,9 +4228,6 @@ https://Live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4667aa2bb9d080471f43e03d40868c10:116db8fda0a62355cf24c6acb6aab03d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Astro Vellithirai
-http://iptv12k.com:35461/8022011502/123456/677
 
 #EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Movies",309 Celestial Movies HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5452,7 +5448,7 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 #EXTINF:-1 tvg-id="CHN" group-title="SINGAPURA" tvg-logo="https://i.ibb.co/yq8zZwR/unnamed.png",MediaCorp MeWatch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+#https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
 
 
