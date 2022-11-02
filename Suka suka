@@ -4557,12 +4557,10 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&exten
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://iili.io/1NzqF4.png",811 Astro SuperSport HD backup 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://megaott.cx:900/8098058203/C73B946A/7841
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup 1
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-AwLfm1kvQGBCYhkTt3iMQ
+http://megaott.cx:900/8098058203/C73B946A/7841
 # http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 # https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 # http://51.81.208.129:35461/80201051217/424567/7990
@@ -4570,7 +4568,7 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-AwLfm1kvQGBCYhkTt3iMQ
 
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro SuperSport 2 HD backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E6J8AFt85yygd-VM5_hEO3E
+https://aqfadtv.xyz/supersport2.m3u8
 # http://203.154.243.89:21202/nakhon
 # http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 # https://www.seulangatv.xyz/ns/sports/assp2.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
@@ -4579,7 +4577,7 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E6J8AFt85yygd-VM5_hEO3E
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro SuperSport 3 HD backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E82-pE3T7ZTGq5ibLemeCpw
+https://aqfadtv.xyz/supersport3.m3u8
 # http://203.154.243.89:21203/nakhon
 # http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
 # https://www.seulangatv.xyz/ns/sports/assp3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
@@ -4588,7 +4586,7 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E82-pE3T7ZTGq5ibLemeCpw
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro SuperSport 4 backup 1
 #EXTVLCOPT:http-user-agent=punya=SeulangaTV
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E7GnyhqWbrAZQKWN60qv1uE
+https://aqfadtv.xyz/supersport4.m3u8
 # http://203.154.243.89:21204/nakhon
 # http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 # https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
@@ -5366,11 +5364,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
                                                                                    
 
 
-
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport 1 4K UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
-http://megaott.cx:900/8098058203/C73B946A/7841
 
 #EXTINF:-1 tvg-id="AstroUHD" ch-number="781" group-title="4K" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",780 Astro UHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
