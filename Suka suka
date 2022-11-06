@@ -4947,16 +4947,19 @@ https://live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
+http://begaltvku.site/ventidos/master-6.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="xtra Sports" tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2",ChampionsTV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
+http://begaltvku.site/ventidos/master-7.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/nkGJtTj/1609169144-tv3-28-1.jpg" group-title="xtra Sports" tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3",ChampionsTV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
+http://begaltvku.site/ventidos/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="xtra Sports",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -5065,6 +5068,9 @@ https://webudi.openhd.lol/lb/premium45/index.m3u8|ExoPlayerLib/2.13.2=&referer=h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LFCTV.uk"  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/lftv.webp" group-title="xtra Sports", LFCTV
+http://begaltvku.site/ventidos/master-3.m3u8
 
 
 
