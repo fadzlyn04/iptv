@@ -4351,11 +4351,6 @@ http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/European_Film_Awards_statue.png" group-title="Xtra Movies",MY CINEMA EUROPE
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://logolook.net/wp-content/uploads/2021/12/Bflix-Logo.png" group-title="Xtra Movies", Bflix MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-# http://mag.you24.online:8080/jc1bu936np/zmi245c2fk/672302
-
-
 EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png" group-title="Xtra Movies",Box Movie 1 HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -4380,7 +4375,6 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="Xtra Movies",Movies X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-chno="80" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Xtra Movies",BLACK CINEMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -4392,10 +4386,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e5
 
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere (1080p)" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Xtra Movies",MOVIESPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-name="Bumblebee TV PopCornFlix Action (1080p)" tvg-logo="https://i.imgur.com/Ths3dIy.png" group-title="Xtra Movies",BUMBLEBEE TV POPCORNFLIX ACTION (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GravitasMovies.us" tvg-name="Gravitas Movies (720p)" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Xtra Movies",GRAVITAS MOVIES (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
@@ -4411,27 +4401,6 @@ http://203.154.177.124:8899/live/ch7/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="Xtra Movies",Sony Pix HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Xtra Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 Latest Movie
-http://212.102.58.192:8009/57e7744848e617b38a7b304007d7dd42aa4c4112c5bda7c1b70ad9dc295133b13ff102624024d9/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Xtra Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 Recent Release
-http://mpur2.dyndns.tv:5808/PPV.HINDI1/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Xtra Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 THIS YEAR
-http://dpus1.ddns.net:5808/PPV.HINDI2/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Xtra Movies" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24x7 New Movies
-http://89.187.182.144:8009/57e7744848e617b38a7b304007d7dd42aa4c411ecfa6a3d1ae01dfd539493fa333/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Xtra Movies",Star Movies HD
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Xtra Movies",Star Movies
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/index.m3u8?token=c7ee9d20246705048b7bbca4bbdb08e2433095ea-e2470fe9a509d430a233a8e89b1a6735-1667308100-1667286500&remote=172.104.238.29
-
-#EXTINF:-1 tvg-logo="" group-title="Xtra Movies",Star Movies Select
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="Xtra Movies", & flix
 https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
 https://aqfadtv.xyz/live/&flix/index.m3u8
@@ -4444,15 +4413,6 @@ https://aqfadtv.xyz/live/&prive/index.m3u8
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 http://103.55.144.46/hls/mn+.m3u8
 https://bit.ly/3m7eYnn
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Xtra Movies",24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=y6L36Ehg1cz2yxkXPc-u&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
-
-#EXTINF:-1 tvg-id="kr" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/07/25/play-logo-music-digital-video-movie-player-vector-20720725.jpg" group-title="Xtra Movies", PLAYY Well-Made Movie(KR)
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYWellMadeMovie.m3u8
-
-#EXTINF:-1 tvg-id="kr" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/07/25/play-logo-music-digital-video-movie-player-vector-20720725.jpg" group-title="Xtra Movies", PLAYY Action Movie(KR)
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
 
  
                                                         
@@ -4565,8 +4525,17 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manife
 #EXTINF:-1 tvg-id="ZEECINEMA.ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="INDIA",Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="1603" tvg-name="HITS HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png" group-title="INDIA",HITS India
-https://tv.googledrivelinks.com/live.php?c=HitsIndia_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="" group-title="INDIA" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 Latest Movie
+http://212.102.58.192:8009/57e7744848e617b38a7b304007d7dd42aa4c4112c5bda7c1b70ad9dc295133b13ff102624024d9/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="INDIA" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 Recent Release
+http://mpur2.dyndns.tv:5808/PPV.HINDI1/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="INDIA" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 THIS YEAR
+http://dpus1.ddns.net:5808/PPV.HINDI2/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="INDIA" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24x7 New Movies
+http://89.187.182.144:8009/57e7744848e617b38a7b304007d7dd42aa4c411ecfa6a3d1ae01dfd539493fa333/index.m3u8
 
 
 
