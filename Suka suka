@@ -4409,14 +4409,25 @@ https://aqfadtv.xyz/live/&flix/index.m3u8
 https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 https://aqfadtv.xyz/live/&prive/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="Xtra Movies", Movies Now +
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="Xtra Movies", MN+
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 http://103.55.144.46/hls/mn+.m3u8
-https://bit.ly/3m7eYnn
+# http://103.121.14.18/hls/mn+.m3u8
+# http://bdiptv.net:8282/mn-hd/tracks-v1a1/mono.m3u8
+# http://15.1.5.14:8082/mn-hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Xtra Movies" tvg-logo="https://i.ibb.co/bN0V0LF/Star-Movies-HD.jpg",Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?token=test
+# http://103.121.14.18/hls/starmovies.m3u8
+
+#EXTINF:-1 group-title="Xtra Movies" tvg-logo="https://i.ibb.co/YbzVPb2/Star-Movies-Sl-HD.jpg",StarMovies Select
+# http://116.204.149.11:8000/play/a00a/index.m3u8
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/tracks-v1a1/mono.m3u8
  
-                                                        
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="Flixhub",Movies Now
+http://103.121.14.18/hls/movies-now.m3u8
+# http://bdiptv.net:8282/movies-now/tracks-v1a1/mono.m3u8                                                        
+# http://15.1.5.10:8082/movies-now/tracks-v1a1/mono.m3u8
 
 
 
