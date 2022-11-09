@@ -4166,6 +4166,32 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="118" tvg-id="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png",118 Inspirasi
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="116" tvg-id="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png",116 Sensasi
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="120" tvg-id="120" ch-number="120" tvg-logo="https://ms.wikipedia.org/wiki/STAR_TV#/media/Fail:Star_TV_logo.PNG", DEGUP
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTRkNjZkMjgtOTY5Mi0zY2JiLTkxOTktNDkzMmE3MjAxYjQy
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="121" tvg-id="121" ch-number="121" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HyppTV_Logo.jpg", SIAR
+https://aqfadtv.xyz/live/unifitv/siar/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HyppTV_Logo.jpg", DUNIA SINEMA HD
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
+
 
 
 
