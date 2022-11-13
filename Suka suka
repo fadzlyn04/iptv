@@ -4030,7 +4030,7 @@ https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="ASTRO" ch-number="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",107 Astro Warna backup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701 
 # https://linears-playback.astro.com.my/vsg/41gzZ3wN0jQicqe_wa7f46hkfSzGHagDIo1fdnH0gRNdU=0fMS/dash-wv/jitp-linearwm/2402/default_primary.mpd
 http://51.79.82.208:16010
 # https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
