@@ -4432,32 +4432,96 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="Xtra Movies", & flix
-https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
 https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="Xtra Movies", & privé HD
-https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 https://aqfadtv.xyz/live/&prive/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="Xtra Movies", MN+
-http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
-http://103.55.144.46/hls/mn+.m3u8
-# http://103.121.14.18/hls/mn+.m3u8
-# http://bdiptv.net:8282/mn-hd/tracks-v1a1/mono.m3u8
-# http://15.1.5.14:8082/mn-hd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Xtra Movies" tvg-logo="https://i.ibb.co/bN0V0LF/Star-Movies-HD.jpg",Star Movies
-# http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?token=test
-http://103.121.14.18/hls/starmovies.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
 
 #EXTINF:-1 group-title="Xtra Movies" tvg-logo="https://i.ibb.co/YbzVPb2/Star-Movies-Sl-HD.jpg",StarMovies Select
-http://116.204.149.11:8000/play/a00a/index.m3u8
-# http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png" group-title="Xtra Movies",Movies Now
-# http://103.121.14.18/hls/movies-now.m3u8
-http://bdiptv.net:8282/movies-now/tracks-v1a1/mono.m3u8                                                        
-# http://15.1.5.10:8082/movies-now/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/Box_Movie_1_logo_2018_3D.png/revision/latest/scale-to-width-down/591?cb=20221103132400&path-prefix=vi" group-title="Xtra Movies", BOX MOVIE
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="Xtra Movies", FLIXBUS
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="Xtra Movies",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Movie Hub" tvg-logo="https://i.ibb.co/r6WS80p/download-1.png" group-title="Xtra Movies",Movies Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-name="Bumblebee TV PopCornFlix Action (1080p)" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/HBOPLUS.png" group-title="Xtra Movies",HBO PLUS HD
+# https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+https://webudi.openhd.lol/lb/premium321/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 group-title="Xtra Movies" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/new-k-movies.png", NEW KMOVIES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tinyurl.com/TiviMe-NewKMovies
+
+#EXTINF:-1 tvg-id="movienow" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="Xtra Movies", Movies Now
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282651
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Xtra Movies",Ion Plus
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Xtra Movies",The Asylum
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 1
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 2
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924693
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 3
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924695
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 4
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924696
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 5
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924694
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 6
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924697
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX 1
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924705
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX A
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924706
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX B
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924707
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX C
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924708
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX D
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924709
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX E
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924710
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX F
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
+
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 1
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924735
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 2
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924736
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 3
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924737
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 4
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924738
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 5
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924739
+#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 6
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924740
+
+
+
+
+
+
+
+
 
 
 
@@ -4602,7 +4666,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://iili.io/1NzqF4.png",811 Astro SuperSport HD backup 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://iili.io/1NzqF4.png",Astro Supersport HD  backup 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4798,20 +4862,11 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_pri
 #EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
 
+#EXTINF:-1 tvg-id="805" tvg-name="astro supersport uhd 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png", WORLD CUP UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 1
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
-
-#EXTINF:-1 tvg-id="astroworldcup1" tvg-name="astro world cup 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 1 (Backup)
-http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
-#EXTINF:-1 tvg-id="astroworldcup2" tvg-name="astro world cup 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2 (Backup)
-http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", World Cup Qatar TV
 https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 
@@ -4819,34 +4874,28 @@ https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=prima900&e=.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORT TV 1
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1483
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", FOX SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=premium39&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", Arena Premium 1
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/285558
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TVR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORTV
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/4015
 
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",Supersport Premier League
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium414/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 1
-https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 2
-https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 3
-https://webudi.openhd.lol/lb/premium113/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 4
-https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="BEINSPORTSMAX1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 1 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216916
+#EXTINF:-1 tvg-id="BEINSPORTSMAX2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 2 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216917
+#EXTINF:-1 tvg-id="BEINSPORTSMAX3" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 3 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216918
+#EXTINF:-1 tvg-id="BEINSPORTSMAX4" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 4 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216919
+#EXTINF:-1 tvg-id="BEINSPORTSMAX5" tvg-name="BEIN SPORTS MAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 5 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
+#EXTINF:-1 tvg-id="BEINSPORTSMAX6" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
 
 
 
@@ -5315,8 +5364,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroAwani" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="NEWS",Astro Awani AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5025/
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+# https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="BernamaTV" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA HD
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
