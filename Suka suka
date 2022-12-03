@@ -4852,20 +4852,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 world cup
 
 
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://wikisouthafrica.co.za/wp-content/uploads/2021/08/supersport.png",SuperSport 4k World CUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+
+#EXTINF:-1 tvg-id="wc2022-1" tvg-name="astro world cup 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 1 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="astro world cup 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 1
+#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 1 (Backup)
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
+# https://4fl0.short.gy/FzTv/wc1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2 (Backup)
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
-
-#EXTINF:-1 tvg-id="805" tvg-name="astro supersport uhd 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png", WORLD CUP UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+#https://4fl0.short.gy/FzTv/wc2.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", World Cup Qatar TV
 https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
@@ -4874,30 +4886,52 @@ https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORT TV 1
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=prima900&e=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", Arena Premium 1
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/285558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", FOX SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=premium39&e=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORTV
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/4015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TVR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
 
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",Supersport Premier League
+#EXTVLCOPT:http-referrer=https://olacast.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+https://webudi.openhd.lol/lb/premium414/index.m3u8
 
-#EXTINF:-1 tvg-id="BEINSPORTSMAX1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 1 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216916
-#EXTINF:-1 tvg-id="BEINSPORTSMAX2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 2 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216917
-#EXTINF:-1 tvg-id="BEINSPORTSMAX3" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 3 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216918
-#EXTINF:-1 tvg-id="BEINSPORTSMAX4" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 4 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216919
-#EXTINF:-1 tvg-id="BEINSPORTSMAX5" tvg-name="BEIN SPORTS MAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",BEIN SPORTS MAX 5 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216920
-#EXTINF:-1 tvg-id="BEINSPORTSMAX6" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216921
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 1
+https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
 
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 2
+https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/
 
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 3
+https://webudi.openhd.lol/lb/premium113/index.m3u8|referer=https://besthdplayer.click/
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 4
+https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.click/
+
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/114.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 1 
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
+
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/405.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 2 
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
+
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/116.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 3 
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
+
+#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/117.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 4 
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
+
+#EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-name="BEIN SPORTS MAX 5" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/118.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 5 
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
+
+#EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/119.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
 
 
 xtra Sports
