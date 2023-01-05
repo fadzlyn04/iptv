@@ -4142,20 +4142,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
-#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
+#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="MYFREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
-#EXTINF:-1 tvg-id="DIDIKTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malay", DIDIK TV KPM unifi
+#EXTINF:-1 tvg-id="DIDIKTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MYFREEVIEW", DIDIK TV KPM unifi
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV unifi
+#EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV unifi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="Malay", TV9 unifi
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MYFREEVIEW", TV9 unifi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
