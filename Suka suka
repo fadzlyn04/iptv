@@ -4119,9 +4119,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
  
-#EXTINF:-1 tvg-id="TV3" group-title="MYFREEVIEW" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 backup
-http://51.79.82.208:16003
-
 #EXTINF:-1 tvg-id="105" group-title="MYFREEVIEW" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg",105 Drama Sangat
 https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pruilPH3tmHuOc-Ajx7rZlXIp4S_NDnNq8CaCimiKph)/dm/3/x6zvnex/s/live-3.m3u8
 
@@ -4131,9 +4128,7 @@ https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pruilPH3tmHuOc-Aj
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="MYFREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",113 TV6
-# https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-# https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS AstGO AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4145,23 +4140,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
-#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="MYFREEVIEW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-# https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="MYFREEVIEW" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
-http://51.79.82.208:16004
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+#EXTINF:-1 tvg-id="DIDIKTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malay", DIDIK TV KPM unifi
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV
-http://51.79.82.208:16005
+#EXTINF:-1 tvg-id="" tvg-chno="111" tvg-name="8TV" radio="false" catchup="default" group-title="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png", 8TV unifi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MYFREEVIEW" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9
-http://51.79.82.208:16006
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="Malay", TV9 unifi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1, group-title="MYFREEVIEW" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hello HD" group-title="MYFREEVIEW" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
 # https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
@@ -4478,58 +4478,6 @@ https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Xtra Movies",The Asylum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 1
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 2
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924693
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 3
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924695
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 4
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924696
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 5
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924694
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 6
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924697
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX 1
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924705
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX A
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924706
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX B
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924707
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX C
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924708
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX D
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924709
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX E
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924710
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX F
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
-
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 1
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924735
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 2
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924736
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 3
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924737
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 4
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924738
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 5
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924739
-#EXTINF:-1 group-title="Xtra Movies" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 6
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924740
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4554,9 +4502,9 @@ https://stream.zeehanzgadget.com/vinmeen
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 # https://stream.zeehanzgadget.com/vinmeen
-# https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/2105/default_primary.mpd
+https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/2105/default_primary.mpd
 # https://stream.zeehanzgadget.com/vinmeen.mpd
-https://aqfadtv.xyz/live/vinmeen/index.mpd
+# https://aqfadtv.xyz/live/vinmeen/index.mpd
 
 #EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4850,91 +4798,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-
-
-world cup
-
-
-#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://wikisouthafrica.co.za/wp-content/uploads/2021/08/supersport.png",SuperSport 4k World CUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-
-#EXTINF:-1 tvg-id="wc2022-1" tvg-name="astro world cup 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 1 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#EXTINF:-1 tvg-id="wc2022-2" tvg-name="astro world cup 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
-#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 1 (Backup)
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
-# https://4fl0.short.gy/FzTv/wc1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
-#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="FIFA WORLD CUP 2022 QATAR", ASTRO WORLD CUP 2 (Backup)
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
-#https://4fl0.short.gy/FzTv/wc2.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", World Cup Qatar TV
-https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", SPORT TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://ptstream.livechymde.xyz/hls/pt_sporttv1/livehd/pt_sporttv1_level1/chunks.m3u8?|referer=https://aesport.tv/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=prima900&e=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", FOX SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=premium39&e=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TVR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
-
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="FIFA WORLD CUP 2022 QATAR",Supersport Premier League
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://webudi.openhd.lol/lb/premium414/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 1
-https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 2
-https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 3
-https://webudi.openhd.lol/lb/premium113/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="FIFA WORLD CUP 2022 QATAR", TSN 4
-https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.click/
-
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/114.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 1 
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/405.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 2 
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/116.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 3 
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/117.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 4 
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-name="BEIN SPORTS MAX 5" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/118.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 5 
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12307.ts
-
-#EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/119.png" group-title="FIFA WORLD CUP 2022 QATAR", BEIN SPORTS MAX 6 
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12308.ts
 
 
 xtra Sports
@@ -6089,13 +5952,13 @@ https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Ibiza Global TV (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDONESIA",GLOBAL TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 # https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA",MNC TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-url="https://yamcode.com/raw/transtv-guide" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="INDONESIA",Trans TV
@@ -6110,7 +5973,7 @@ https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7c/Netmediatama.png" group-title="INDONESIA",NET TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR FHD" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="INDONESIA", Indosiar HD
@@ -6119,7 +5982,7 @@ https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="INDONESIA",SCTV
 # https://av-live-cdn.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
@@ -6204,7 +6067,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1617930242_b3884000_
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="INDONESIA",myTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be446503011668def857b1c03bafabba51
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
@@ -6255,235 +6118,7 @@ https://av-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 
 
-                                                                     RADIO
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" ch-number="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
-http://22283.live.streamtheworld.com/988_FMAAC.aac
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
-https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400",Hot FM
-https://mediaprima.rastream.com/mediaprima-hotfm
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM
-https://mediaprima.rastream.com/mediaprima-koolfm
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM
-https://mediaprima.rastream.com/mediaprima-flyfm
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
-https://mediaprima.rastream.com/mediaprima-onefm
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" ch-number="725" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/MolekFM.png",Molek FM
-https://mediaprima.rastream.com/mediaprima-molekfm
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/MolekFM.png",Molek FM (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
-https://astro1.rastream.com/hitz
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MY
-https://astro1.rastream.com/myfm
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MY (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MY.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
-# https://live.astradamy.com/litefm/index.m3u8
-# https://raw.githubusercontent.com/AqFad2811/myiptv/main/lite/info.m3u8
-http://aqfadunifi.ddns.net:8080/lite.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
-https://astro2.rastream.com/mix
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
-https://astro2.rastream.com/era
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
-https://astro2.rastream.com/sinar
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR (YouTube Live)
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SINAR.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
-https://astro3.rastream.com/melody
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
-https://astro3.rastream.com/raaga
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokClassicRock2021.png",SYOK Classic Rock
-https://astro4.rastream.com/rock
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="GOLD" ch-number="861" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokGold2021.png",SYOK Gold
-https://astro4.rastream.com/gold
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="OPUS" ch-number="862" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOpus2021.png",SYOK Opus
-https://astro4.rastream.com/opus
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
-https://astro3.rastream.com/gegar
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="INDIA" ch-number="864" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokIndiaBeat.png",SYOK India Beat
-https://astro4.rastream.com/india
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="JAZZ" ch-number="865" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokJazz2021.png",SYOK Jazz
-https://astro4.rastream.com/jazz
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="OSAI" ch-number="866" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOsai2021.png",SYOK Osai
-https://astro4.rastream.com/osai
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="BAYU" ch-number="867" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokBayu2021.png",SYOK Bayu
-https://astro4.rastream.com/bayu
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokKenyalang2021.png",SYOK Kenyalang
-https://astro4.rastream.com/kenyalang
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="NASFM" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
-https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="VFM" ch-number="870" tvg-logo="https://i.postimg.cc/4dW9q6P1/Sabah-VFM-New.png",VFM
-https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="WAIFM" ch-number="871" tvg-logo="https://i.postimg.cc/4yGS2T8c/Wai-FM-New.png",WAI FM
-https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="TRAXXFM" ch-number="872" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png",TRAXX FM
-https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="MINNALFM" ch-number="873" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png",MINNAL FM
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="AIFM" ch-number="874" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png",AI FM
-https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="ASYIKFM" ch-number="875" tvg-logo="https://i.postimg.cc/rwd95Xd8/AsyikFM.png",ASYIK FM
-https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
-http://aqfadunifi.ddns.net:8080/zayan.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GOXUAN
-http://aqfadunifi.ddns.net:8080/goxuan.m3u8
-
-#EXTINF:-1 tvg-id="CHN" ch-number="878" group-title="STESEN RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",Astro Awani Radio
-http://aqfadunifi.ddns.net:8080/awaniradio.m3u8
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA Sabah
-https://astro2.rastream.com/amp-era-kk
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427",ERA Sarawak
-https://astro2.rastream.com/amp-era-kch
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png/revision/latest?cb=20211113030208",HITZ Sabah
-https://astro1.rastream.com/amp-hitz-kk
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png/revision/latest?cb=20211113030223",HITZ Sarawak
-https://astro1.rastream.com/amp-hitz-kch
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/My_FM_Sabah_2018.png/revision/latest?cb=20211113091611",MY Sabah
-https://astro1.rastream.com/amp-myfm-kk
-
-#EXTINF:-1 group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/My_FM_Sarawak_2018.png/revision/latest?cb=20211113091627",MY Sarawak
-https://astro1.rastream.com/amp-myfm-kch
-
-#EXTINF:-1, group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Mola_logo_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20210603035347", Mola Radio
-https://cdn3.wowza.com/1/OWlOaXJWREpLUzhs/RjZPa2pL/hls/live/playlist.m3u8
-
-#EXTINF:-1, group-title="STESEN RADIO" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",Radio IKIM
-# https://live.astradamy.com/ikimfm/index.m3u8
-http://aqfadunifi.ddns.net:8080/ikim.m3u8
-#EXTINF:-1 tvg-id="CHN" group-title="STESEN RADIO" ch-number="826" tvg-logo="https://aqfadtv.astradamy.com/logos/K-DAILY.png",K-DAILY
-http://node-01.zeno.fm:80/v2gwghhbyf9uv
-
-#EXTINF:-1 tvg-id="CHN" group-title="STESEN RADIO" ch-number="827" tvg-logo="https://aqfadtv.astradamy.com/logos/SonicRadio.png",Sonic Radio
-http://node-11.zeno.fm:80/d6b1dwmbyf9uv
-
-#EXTINF:-1 tvg-id="CHN" group-title="STESEN RADIO" ch-number="828" tvg-logo="https://aqfadtv.astradamy.com/logos/BestOfTiktok.png",Best Of TikTok
-http://node-10.zeno.fm:80/6cf3bsmbyf9uv
-
-#EXTINF:-1 tvg-id="CHN" group-title="STESEN RADIO" ch-number="829" tvg-logo="https://aqfadtv.astradamy.com/logos/MelayuKlasik.png",Melayu Klasik
-http://node-17.zeno.fm:80/s93mzhh7yf9uv
-
-#EXTINF:-1 tvg-id="CHN" group-title="STESEN RADIO" ch-number="830" tvg-logo="https://aqfadtv.astradamy.com/logos/Indix.png",Indix
-http://node-05.zeno.fm:80/6hxp9uq35bhvv
-
-#EXTINF:-1 tvg-id="CHN" group-title="STESEN RADIO" ch-number="831" tvg-logo="https://aqfadtv.astradamy.com/logos/Quran.png",Quran
-http://node-15.zeno.fm:80/tny4226nachvv
-
-#EXTINF:-1 tvg-id="CHN" group-title="STESEN RADIO" ch-number="832" tvg-logo="https://aqfadtv.astradamy.com/logos/Imagine.png",Imagine
-http://node-03.zeno.fm:80/d50cvfngzchvv
-
-
-
-
-                                                          Thailand
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thailand",BBTV Channel 7
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/ALTV_Logo.png" group-title="Thailand",ALTV4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Thai_PBS_2015.svg" group-title="Thailand",ThaiPBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TPTV_logo_2014.png" group-title="Thailand",TPTV
-http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/TNN24_Logo.png" group-title="Thailand",TNN16
-http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="Thailand",NationTV
-http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Workpoint_TV_Logo.png" group-title="Thailand",workpoint
-http://freelive2.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/True4U_Logo.svg" group-title="Thailand",True4u
-http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="Thailand",GMM25
-http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="Thailand",ONEHD
-http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Thairath_TV_Logo.svg" group-title="Thailand",ThairathTV
-https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="Thailand",CH3
-https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
-
-
+                                                                     
 
                                                        live vod
 
@@ -6511,233 +6146,3 @@ https://4fl0.short.gy/FzTv/35mm
 
 
 
-*4K UHD (100 mbps +
-
-
-#EXTINF:-1 tvg-id="" tvg-name="1917 (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg" group-title="*4K UHD (100 mbps +)",1917 (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/199.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="A Beautiful Day in the Neighborhood (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9vCAVhDK375XyobVcKqzqzsUHE.jpg" group-title="*4K UHD (100 mbps +)",A Beautiful Day in the Neighborhood (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/200.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Abominable (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20djTLqppfBx5WYA67Y300S6aPD.jpg" group-title="*4K UHD (100 mbps +)",Abominable (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/201.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="A Christmas Prince: The Royal Baby (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NF0YG30eCDQJ5bRTNauF48C9Bu.jpg" group-title="*4K UHD (100 mbps +)",A Christmas Prince: The Royal Baby (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/202.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin (1992) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMQdkZwXh8TLsJev8cT0pKeTwrj.jpg" group-title="*4K UHD (100 mbps +)",Aladdin (1992) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/203.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg" group-title="*4K UHD (100 mbps +)",Aladdin (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/204.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Alita: Battle Angel (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg" group-title="*4K UHD (100 mbps +)",Alita: Battle Angel (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/205.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Angel Has Fallen (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="*4K UHD (100 mbps +)",Angel Has Fallen (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/206.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Anna (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybizg6RSYX3yvOQ2iLYucTrHGw2.jpg" group-title="*4K UHD (100 mbps +)",Anna (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/207.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Annabelle Comes Home (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg" group-title="*4K UHD (100 mbps +)",Annabelle Comes Home (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/208.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Aquaman (2018) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg" group-title="*4K UHD (100 mbps +)",Aquaman (2018) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/209.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="A Shaun the Sheep Movie: Farmageddon (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg" group-title="*4K UHD (100 mbps +)",A Shaun the Sheep Movie: Farmageddon (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/210.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War (2018) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="*4K UHD (100 mbps +)",Avengers: Infinity War (2018) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="*4K UHD (100 mbps +)",Bad Boys for Life (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman: Hush (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg" group-title="*4K UHD (100 mbps +)",Batman: Hush (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg" group-title="*4K UHD (100 mbps +)",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="*4K UHD (100 mbps +)",Bloodshot (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody (2018) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg" group-title="*4K UHD (100 mbps +)",Bohemian Rhapsody (2018) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Booksmart (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/micaVOa1UZsdzs4fKGA67ZMGOzc.jpg" group-title="*4K UHD (100 mbps +)",Booksmart (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/217.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Breakthrough (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwwB6aL8jyoqUWt5W6LPKnw0TDU.jpg" group-title="*4K UHD (100 mbps +)",Breakthrough (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/218.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Brightburn (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg" group-title="*4K UHD (100 mbps +)",Brightburn (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/219.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg" group-title="*4K UHD (100 mbps +)",Bumblebee (2018) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Captain Marvel (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg" group-title="*4K UHD (100 mbps +)",Captain Marvel (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Charlie's Angels (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg" group-title="*4K UHD (100 mbps +)",Charlie's Angels (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cold Pursuit (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg" group-title="*4K UHD (100 mbps +)",Cold Pursuit (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dark Phoenix (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCTJPelKGLhALq3r51A9uMonxKj.jpg" group-title="*4K UHD (100 mbps +)",Dark Phoenix (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/224.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Sleep (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p69QzIBbN06aTYqRRiCOY1emNBh.jpg" group-title="*4K UHD (100 mbps +)",Doctor Sleep (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/225.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dolittle (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg" group-title="*4K UHD (100 mbps +)",Dolittle (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/226.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dumbo (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg" group-title="*4K UHD (100 mbps +)",Dumbo (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Earth: One Amazing Day (2017) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/di5sY2ZnZq9cKuTqyIvu91XUkHb.jpg" group-title="*4K UHD (100 mbps +)",Earth: One Amazing Day (2017) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/228.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Camino: A Breaking Bad Movie (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg" group-title="*4K UHD (100 mbps +)",El Camino: A Breaking Bad Movie (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/229.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious Presents: Hobbs & Shaw (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg" group-title="*4K UHD (100 mbps +)",Fast & Furious Presents: Hobbs & Shaw (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ford v Ferrari (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg" group-title="*4K UHD (100 mbps +)",Ford v Ferrari (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/231.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gemini Man (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg" group-title="*4K UHD (100 mbps +)",Gemini Man (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/232.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla: King of the Monsters (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU3bnutJU91u3b4IeRPQTOP8jhV.jpg" group-title="*4K UHD (100 mbps +)",Godzilla: King of the Monsters (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/233.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hellboy (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg" group-title="*4K UHD (100 mbps +)",Hellboy (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/234.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hustlers (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg" group-title="*4K UHD (100 mbps +)",Hustlers (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/235.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Interstellar (2014) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="*4K UHD (100 mbps +)",Interstellar (2014) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="It Chapter Two (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" group-title="*4K UHD (100 mbps +)",It Chapter Two (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 3 - Parabellum (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg" group-title="*4K UHD (100 mbps +)",John Wick: Chapter 3 - Parabellum (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Joker (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="*4K UHD (100 mbps +)",Joker (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jumanji: The Next Level (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg" group-title="*4K UHD (100 mbps +)",Jumanji: The Next Level (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Knives Out (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pThyQovXQrw2m0s9x82twj48Jq4.jpg" group-title="*4K UHD (100 mbps +)",Knives Out (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/241.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lady and the Tramp (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wBEye516IKul9sW7JKGcFXVGfV.jpg" group-title="*4K UHD (100 mbps +)",Lady and the Tramp (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maleficent: Mistress of Evil (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg" group-title="*4K UHD (100 mbps +)",Maleficent: Mistress of Evil (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Men in Black: International (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg" group-title="*4K UHD (100 mbps +)",Men in Black: International (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/244.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Minions (2015) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMaGZ2HR8HAFwkx4YRib0CDVfNT.jpg" group-title="*4K UHD (100 mbps +)",Minions (2015) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/245.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Miss Bala (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg" group-title="*4K UHD (100 mbps +)",Miss Bala (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/246.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Legends: Scorpion's Revenge (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VlXER3FImHeFuUjBShFamhIp9M.jpg" group-title="*4K UHD (100 mbps +)",Mortal Kombat Legends: Scorpion's Revenge (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Murder Mystery (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7dbE7sgqxWnQzepWQycYJ1W0qJ.jpg" group-title="*4K UHD (100 mbps +)",Murder Mystery (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time… in Hollywood (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg" group-title="*4K UHD (100 mbps +)",Once Upon a Time… in Hollywood (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pet Sematary (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg" group-title="*4K UHD (100 mbps +)",Pet Sematary (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon Detective Pikachu (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg" group-title="*4K UHD (100 mbps +)",Pokémon Detective Pikachu (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Prospect (2018) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HpAwszXLsD8GeypDzK0me7fPFA.jpg" group-title="*4K UHD (100 mbps +)",Prospect (2018) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Queen & Slim (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksHdHK17wRKMLkpMH4UslMT1V0p.jpg" group-title="*4K UHD (100 mbps +)",Queen & Slim (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/253.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rambo: Last Blood (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="*4K UHD (100 mbps +)",Rambo: Last Blood (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rattlesnake (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg" group-title="*4K UHD (100 mbps +)",Rattlesnake (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rocketman (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg" group-title="*4K UHD (100 mbps +)",Rocketman (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/256.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scary Stories to Tell in the Dark (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7GvmHR10Rr4L17pX5fiErjarNf.jpg" group-title="*4K UHD (100 mbps +)",Scary Stories to Tell in the Dark (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scoob! (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg" group-title="*4K UHD (100 mbps +)",Scoob! (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shaft (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfZqwGuvEBAysAbCsa0QLKoSYR.jpg" group-title="*4K UHD (100 mbps +)",Shaft (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/259.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shazam! (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg" group-title="*4K UHD (100 mbps +)",Shazam! (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/260.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sonic the Hedgehog (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg" group-title="*4K UHD (100 mbps +)",Sonic the Hedgehog (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Far from Home (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="*4K UHD (100 mbps +)",Spider-Man: Far from Home (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Into the Spider-Verse (2018) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg" group-title="*4K UHD (100 mbps +)",Spider-Man: Into the Spider-Verse (2018) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spies in Disguise (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30YacPAcxpNemhhwX0PVUl9pVA3.jpg" group-title="*4K UHD (100 mbps +)",Spies in Disguise (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stargirl (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKt6sDEGVGbQWkaBuVZxJcLmQXj.jpg" group-title="*4K UHD (100 mbps +)",Stargirl (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Rise of Skywalker (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="*4K UHD (100 mbps +)",Star Wars: The Rise of Skywalker (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stuber (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klkFYDZOetegK8floj6IjvbzzQ2.jpg" group-title="*4K UHD (100 mbps +)",Stuber (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman: Red Son (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FVU9HZ87VfYMe5vIJvM3hFTG5i.jpg" group-title="*4K UHD (100 mbps +)",Superman: Red Son (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Suspiria (2018) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qntguRoupnAASFdld8kTDe68fEn.jpg" group-title="*4K UHD (100 mbps +)",Suspiria (2018) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/269.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminator: Dark Fate (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg" group-title="*4K UHD (100 mbps +)",Terminator: Dark Fate (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Aeronauts (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZHnblqmTBUBgzYBIxWIz9txsEi.jpg" group-title="*4K UHD (100 mbps +)",The Aeronauts (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Angry Birds Movie 2 (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg" group-title="*4K UHD (100 mbps +)",The Angry Birds Movie 2 (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Banker (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biXzsw22U6vSd0XktmZwAOc4uik.jpg" group-title="*4K UHD (100 mbps +)",The Banker (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/273.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Call of the Wild (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg" group-title="*4K UHD (100 mbps +)",The Call of the Wild (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/274.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Dead Don't Die (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndvOjo7Nfk8ULnFLMXthPzhI62L.jpg" group-title="*4K UHD (100 mbps +)",The Dead Don't Die (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Death and Return of Superman (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BqeqvGfMOfsbY5X4mljLTVKO1X.jpg" group-title="*4K UHD (100 mbps +)",The Death and Return of Superman (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/276.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Gentlemen (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg" group-title="*4K UHD (100 mbps +)",The Gentlemen (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/277.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man (2020) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg" group-title="*4K UHD (100 mbps +)",The Invisible Man (2020) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Lion King (1994) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg" group-title="*4K UHD (100 mbps +)",The Lion King (1994) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Lion King (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg" group-title="*4K UHD (100 mbps +)",The Lion King (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/280.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="The Mule (2018) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeZh7yEz3PMnZLgBPhrafFHRbVz.jpg" group-title="*4K UHD (100 mbps +)",The Mule (2018) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/281.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="The Secret Life of Pets 2 (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYcaCNkB4EgVyvrXxxbklefDrGL.jpg" group-title="*4K UHD (100 mbps +)",The Secret Life of Pets 2 (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/282.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Togo (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wX0QD36a80hxulcizz7tyahYOF8.jpg" group-title="*4K UHD (100 mbps +)",Togo (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/283.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story (1995) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="*4K UHD (100 mbps +)",Toy Story (1995) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/284.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 2 (1999) | (4K UHD - Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg" group-title="*4K UHD (100 mbps +)",Toy Story 2 (1999) | (4K UHD - Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/285.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 3 (2010) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a83hHwstUsEEjE55kTgDkZMFweR.jpg" group-title="*4K UHD (100 mbps +)",Toy Story 3 (2010) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/286.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Us (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg" group-title="*4K UHD (100 mbps +)",Us (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/287.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Yesterday (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rjaRIAqFPQNnMtqSMLtg0VEABi.jpg" group-title="*4K UHD (100 mbps +)",Yesterday (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/288.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Zombieland: Double Tap (2019) | (4K UHD : Dual Audio)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg" group-title="*4K UHD (100 mbps +)",Zombieland: Double Tap (2019) | (4K UHD : Dual Audio)
-http://i-go.tv:25461/movie/ORnCqWUqKi/C4m4Mhm01U/289.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                            
-                                                            
-                                                            
-                                                            
-                                                            
-                                                                                                                    
-                                                            
